@@ -1,0 +1,30 @@
+[
+  {"model": "brackets.federal", "pk": "FM1", "fields":
+    {"federal_id": "FM1","greater_than": 0,"last_bkt": 0,"init_tax": 0,"new_rate": 0.1}},
+  {"model": "brackets.federal", "pk": "FM2", "fields":
+    {"federal_id": "FM2","greater_than": 19051,"last_bkt": 19050,"init_tax": 1905,"new_rate": 0.12}},
+  {"model": "brackets.federal", "pk": "FM3", "fields":
+    {"federal_id": "FM3","greater_than": 77401,"last_bkt": 77400,"init_tax": 8907,"new_rate": 0.22}},
+  {"model": "brackets.federal", "pk": "FM4", "fields":
+    {"federal_id": "FM4","greater_than": 165001,"last_bkt": 165000,"init_tax": 28179,"new_rate": 0.24}},
+  {"model": "brackets.federal", "pk": "FM5", "fields":
+    {"federal_id": "FM5","greater_than": 315001,"last_bkt": 315000,"init_tax": 64179,"new_rate": 0.32}},
+  {"model": "brackets.federal", "pk": "FM6", "fields":
+    {"federal_id": "FM6","greater_than": 400001,"last_bkt": 400000,"init_tax": 91379,"new_rate": 0.35}},
+  {"model": "brackets.federal", "pk": "FM7", "fields":
+    {"federal_id": "FM7","greater_than": 600001,"last_bkt": 600000,"init_tax": 161379,"new_rate": 0.37}},
+  {"model": "brackets.federal", "pk": "FS1", "fields":
+    {"federal_id": "FS1","greater_than": 0,"last_bkt": 0,"init_tax": 0,"new_rate": 0.1}},
+  {"model": "brackets.federal", "pk": "FS2", "fields":
+    {"federal_id": "FS2","greater_than": 9526,"last_bkt": 9525,"init_tax": 952.5,"new_rate": 0.12}},
+  {"model": "brackets.federal", "pk": "FS3", "fields":
+    {"federal_id": "FS3","greater_than": 38701,"last_bkt": 38700,"init_tax": 4453.5,"new_rate": 0.22}},
+  {"model": "brackets.federal", "pk": "FS4", "fields":
+    {"federal_id": "FS4","greater_than": 82501,"last_bkt": 82500,"init_tax": 14089.5,"new_rate": 0.24}},
+  {"model": "brackets.federal", "pk": "FS5", "fields":
+    {"federal_id": "FS5","greater_than": 157501,"last_bkt": 157500,"init_tax": 32089.5,"new_rate": 0.32}},
+  {"model": "brackets.federal", "pk": "FS6", "fields":
+    {"federal_id": "FS6","greater_than": 200001,"last_bkt": 200000,"init_tax": 45689.5,"new_rate": 0.35}},
+  {"model": "brackets.federal", "pk": "FS7", "fields":
+    {"federal_id": "FS7","greater_than": 500001,"last_bkt": 500000,"init_tax": 150689.5,"new_rate": 0.37}}
+]
