@@ -6,16 +6,16 @@ class UserInfo(models.Model):
         ('S', 'single'),
         ('M', 'married'),
     )
-    zip_code = models.IntegerField(default=00000)
-    salary = models.IntegerField(default=0)
+    zip_code = models.DecimalField(max_digits=15, decimal_places=4, default=00000)
+    salary = models.DecimalField(max_digits=15, decimal_places=2, default=0)
     marital_status = models.CharField(max_length=1, choices=SINGLE_OR_MARRIED)
 
 # abstract class inherited by state & federal brackets
 class Brackets(models.Model):
-    greater_than = models.IntegerField(default=0)
-    last_bkt = models.IntegerField(default=0)
-    init_tax = models.IntegerField(default=0)
-    new_rate = models.IntegerField(default=0)
+    greater_than = models.DecimalField(max_digits=15, decimal_places=2, default=0)
+    last_bkt = models.DecimalField(max_digits=15, decimal_places=2, default=0)
+    init_tax = models.DecimalField(max_digits=15, decimal_places=2, default=0)
+    new_rate = models.DecimalField(max_digits=15, decimal_places=4, default=0)
 
     class Meta:
         abstract = True
@@ -26,9 +26,3 @@ class State(Brackets):
 
 class Federal(Brackets):
     federal_id = models.CharField(primary_key=True, max_length=10)
-
-# # join table for user & their tax bracket objects
-class TaxInfo(models.Model):
-    state = models.ForeignKey(State, on_delete=models.CASCADE)
-    federal = models.ForeignKey(Federal, on_delete=models.CASCADE)
-    user_info = models.ForeignKey(UserInfo, on_delete=models.CASCADE)
