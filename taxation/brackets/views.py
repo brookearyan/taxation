@@ -1,5 +1,6 @@
-from django.http import HttpResponse
+from django.http import HttpResponse, Http404
 from django.template import loader
+from django.shortcuts import get_object_or_404, render
 from .models import UserInfo
 
 def index(request):
@@ -11,4 +12,5 @@ def index(request):
     return HttpResponse(template.render(context, request))
 
 def display(request, user_info_id):
-    return HttpResponse("This is user number: %s" % user_info_id)
+    user_info = get_object_or_404(UserInfo, pk=user_info_id)
+    return render(request, 'brackets/display.html', {'user_info': user_info})
