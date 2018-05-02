@@ -1,9 +1,28 @@
-<form class="userform" action="index.html" method="post">
-  <label for="{{ user_info.zip_code }}">zip code: </label>
-  <input type="text" name="{{ user_info.salary }}" value="{{ current_name }}">
-  <label for="{{ user_info.salary }}">annual salary: </label>
-  <input type="text" name="{{ user_info.salary }}" value="{{ current_name }}">
-  <label for="{{ user_info.marital_status }}">marital_status: </label>
-  <input type="text" name="{{ user_info.marital_status }}" value="{{ current_name }}">
-  <input type="submit" value="see estimated taxes">
-</form>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  </head>
+
+  <body>
+    <form class="userform" action="index.html" method="post">
+      <label for="{{ user_info.zip_code }}">zip code: </label>
+      <input type="text" name="{{ user_info.salary }}" value="{{ current_name }}">
+      <label for="{{ user_info.salary }}">annual salary: </label>
+      <input type="text" name="{{ user_info.salary }}" value="{{ current_name }}">
+      <label for="{{ user_info.marital_status }}">marital_status: </label>
+      <input type="text" name="{{ user_info.marital_status }}" value="{{ current_name }}">
+      <input type="submit" value="see estimated taxes">
+    </form>
+    <!--JavaScript at end of body for optimized loading-->
+    <script type="text/javascript" src="js/materialize.min.js"></script>
+  </body>
+</html>
+<!--! figure out how to get thsi materialize to work!!!! -->
