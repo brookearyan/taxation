@@ -1,0 +1,13 @@
+
+    {% if latest_salary_list %}
+      <ul>
+        {% for user_info in latest_salary_list %}
+        <li>
+          <a href="/brackets/{{ user_info.id }}/">
+          {{ user_info.salary }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p>no current salaries</p>
+    {% endif %}
