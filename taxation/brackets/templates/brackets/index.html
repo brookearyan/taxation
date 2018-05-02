@@ -1,13 +1,9 @@
-
-    {% if latest_salary_list %}
-      <ul>
-        {% for user_info in latest_salary_list %}
-        <li>
-          <a href="{% url 'brackets:display' user_info.id %}">
-          {{ user_info.salary }}</a>
-        </li>
-        {% endfor %}
-      </ul>
-    {% else %}
-      <p>no current salaries</p>
-    {% endif %}
+<form class="userform" action="index.html" method="post">
+  <label for="{{ user_info.zip_code }}">zip code: </label>
+  <input type="text" name="{{ user_info.salary }}" value="{{ current_name }}">
+  <label for="{{ user_info.salary }}">annual salary: </label>
+  <input type="text" name="{{ user_info.salary }}" value="{{ current_name }}">
+  <label for="{{ user_info.marital_status }}">marital_status: </label>
+  <input type="text" name="{{ user_info.marital_status }}" value="{{ current_name }}">
+  <input type="submit" value="see estimated taxes">
+</form>
