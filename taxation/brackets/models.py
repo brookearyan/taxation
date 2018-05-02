@@ -6,7 +6,7 @@ class UserInfo(models.Model):
         ('S', 'single'),
         ('M', 'married'),
     )
-    zip_code = models.DecimalField(max_digits=15, decimal_places=4, default=00000)
+    zip_code = models.IntegerField(default=10016)
     salary = models.DecimalField(max_digits=15, decimal_places=2, default=0)
     marital_status = models.CharField(max_length=1, choices=SINGLE_OR_MARRIED)
 
