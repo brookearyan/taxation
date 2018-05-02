@@ -3,7 +3,7 @@
       <ul>
         {% for user_info in latest_salary_list %}
         <li>
-          <a href="/brackets/{{ user_info.id }}/">
+          <a href="{% url 'brackets:display' user_info.id %}">
           {{ user_info.salary }}</a>
         </li>
         {% endfor %}
