@@ -22,7 +22,6 @@ class Brackets(models.Model):
 
 class State(Brackets):
     state_id = models.CharField(primary_key=True, max_length=10)
-    name = models.CharField(max_length=30)
 
 class Federal(Brackets):
     federal_id = models.CharField(primary_key=True, max_length=10)

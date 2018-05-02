@@ -1,419 +1,935 @@
 
-[{"name": "AL", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.02000},
-{"name": "AL", "greater than": 500, "last bracket ": 999, "initial tax": 19.98, "new rate ": 0.04000},
-{"name": "AL", "greater than": 3000, "last bracket ": 5999, "initial tax": 219.98, "new rate ": 0.05000},
-{"name": "AK", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00000},
-{"name": "AZ", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.02590},
-{"name": "AZ", "greater than": 10179, "last bracket ": 20256, "initial tax": 524.63, "new rate ": 0.02880},
-{"name": "AZ", "greater than": 25445, "last bracket ": 50889, "initial tax": 1406.86, "new rate ": 0.03360},
-{"name": "AZ", "greater than": 50890, "last bracket ": 101778, "initial tax": 3116.73, "new rate ": 0.04240},
-{"name": "AZ", "greater than": 152668, "last bracket ": 305335, "initial tax": 11747.55, "new rate ": 0.04540},
-{"name": "AK", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00900},
-{"name": "AK", "greater than": 4299, "last bracket ": 4298, "initial tax": 0.00, "new rate ": 0.02500},
-{"name": "AK", "greater than": 8500, "last bracket ": 8499, "initial tax": 212.48, "new rate ": 0.03500},
-{"name": "AK", "greater than": 12699, "last bracket ": 12698, "initial tax": 359.44, "new rate ": 0.04500},
-{"name": "AK", "greater than": 21199, "last bracket ": 21198, "initial tax": 741.94, "new rate ": 0.06000},
-{"name": "AK", "greater than": 35100, "last bracket ": 35099, "initial tax": 1576.00, "new rate ": 0.06900},
-{"name": "CA", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.01000},
-{"name": "CA", "greater than": 8015, "last bracket ": 8014, "initial tax": 80.14, "new rate ": 0.02000},
-{"name": "CA", "greater than": 19001, "last bracket ": 19000, "initial tax": 299.86, "new rate ": 0.04000},
-{"name": "CA", "greater than": 29989, "last bracket ": 29988, "initial tax": 739.38, "new rate ": 0.06000},
-{"name": "CA", "greater than": 41629, "last bracket ": 41628, "initial tax": 1437.78, "new rate ": 0.08000},
-{"name": "CA", "greater than": 52612, "last bracket ": 52611, "initial tax": 2316.42, "new rate ": 0.09300},
-{"name": "CA", "greater than": 268750, "last bracket ": 268749, "initial tax": 22417.25, "new rate ": 0.10300},
-{"name": "CA", "greater than": 322499, "last bracket ": 322498, "initial tax": 27953.40, "new rate ": 0.11300},
-{"name": "CA", "greater than": 537498, "last bracket ": 537497, "initial tax": 52248.29, "new rate ": 0.12300},
-{"name": "CA", "greater than": 1000000, "last bracket ": 999999, "initial tax": 109136.03, "new rate ": 0.13300},
-{"name": "CO", "greater than": 0, "last bracket ": 0, "initial tax": 0, "new rate ": 0.04630},
-{"name": "CT", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.03000},
-{"name": "CT", "greater than": 10000, "last bracket ": 9999, "initial tax": 299.97, "new rate ": 0.05000},
-{"name": "CT", "greater than": 50000, "last bracket ": 49999, "initial tax": 2299.97, "new rate ": 0.05500},
-{"name": "CT", "greater than": 100000, "last bracket ": 99999, "initial tax": 5049.97, "new rate ": 0.06000},
-{"name": "CT", "greater than": 200000, "last bracket ": 199999, "initial tax": 11049.97, "new rate ": 0.06500},
-{"name": "CT", "greater than": 250000, "last bracket ": 249999, "initial tax": 14299.97, "new rate ": 0.06900},
-{"name": "CT", "greater than": 500000, "last bracket ": 499999, "initial tax": 31549.97, "new rate ": 0.06990},
-{"name": "DE", "greater than": 2000, "last bracket ": 1999, "initial tax": 0.00, "new rate ": 0.02200},
-{"name": "DE", "greater than": 5000, "last bracket ": 4999, "initial tax": 66.00, "new rate ": 0.03900},
-{"name": "DE", "greater than": 10000, "last bracket ": 9999, "initial tax": 261.00, "new rate ": 0.04800},
-{"name": "DE", "greater than": 20000, "last bracket ": 19999, "initial tax": 741.00, "new rate ": 0.05200},
-{"name": "DE", "greater than": 25000, "last bracket ": 24999, "initial tax": 1001.00, "new rate ": 0.05550},
-{"name": "DE", "greater than": 60000, "last bracket ": 59999, "initial tax": 2943.50, "new rate ": 0.06600},
-{"name": "FL", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00000},
-{"name": "GA", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.01000},
-{"name": "GA", "greater than": 750, "last bracket ": 749, "initial tax": 7.49, "new rate ": 0.02000},
-{"name": "GA", "greater than": 2250, "last bracket ": 2249, "initial tax": 37.49, "new rate ": 0.03000},
-{"name": "GA", "greater than": 3750, "last bracket ": 3749, "initial tax": 82.49, "new rate ": 0.04000},
-{"name": "GA", "greater than": 5250, "last bracket ": 5249, "initial tax": 142.49, "new rate ": 0.05000},
-{"name": "GA", "greater than": 7000, "last bracket ": 6999, "initial tax": 229.99, "new rate ": 0.06000},
-{"name": "HI", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.01400},
-{"name": "HI", "greater than": 2400, "last bracket ": 2399, "initial tax": 33.59, "new rate ": 0.03200},
-{"name": "HI", "greater than": 4800, "last bracket ": 4799, "initial tax": 110.39, "new rate ": 0.05500},
-{"name": "HI", "greater than": 9600, "last bracket ": 9599, "initial tax": 374.39, "new rate ": 0.06400},
-{"name": "HI", "greater than": 14400, "last bracket ": 14399, "initial tax": 681.59, "new rate ": 0.06800},
-{"name": "HI", "greater than": 19200, "last bracket ": 19199, "initial tax": 1007.99, "new rate ": 0.07200},
-{"name": "HI", "greater than": 24000, "last bracket ": 23999, "initial tax": 1353.59, "new rate ": 0.07600},
-{"name": "HI", "greater than": 36000, "last bracket ": 35999, "initial tax": 2265.59, "new rate ": 0.07900},
-{"name": "HI", "greater than": 48000, "last bracket ": 47999, "initial tax": 3213.59, "new rate ": 0.08250},
-{"name": "HI", "greater than": 150000, "last bracket ": 149999, "initial tax": 11628.59, "new rate ": 0.09000},
-{"name": "HI", "greater than": 175000, "last bracket ": 174999, "initial tax": 13878.59, "new rate ": 0.10000},
-{"name": "HI", "greater than": 200000, "last bracket ": 199999, "initial tax": 16378.59, "new rate ": 0.11000},
-{"name": "ID", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.01600},
-{"name": "ID", "greater than": 1454, "last bracket ": 1453, "initial tax": 23.25, "new rate ": 0.03600},
-{"name": "ID", "greater than": 2908, "last bracket ": 2907, "initial tax": 75.59, "new rate ": 0.04100},
-{"name": "ID", "greater than": 4362, "last bracket ": 4361, "initial tax": 135.21, "new rate ": 0.05100},
-{"name": "ID", "greater than": 5816, "last bracket ": 5815, "initial tax": 209.36, "new rate ": 0.06100},
-{"name": "ID", "greater than": 7270, "last bracket ": 7269, "initial tax": 298.05, "new rate ": 0.07100},
-{"name": "ID", "greater than": 10905, "last bracket ": 10904, "initial tax": 556.14, "new rate ": 0.07400},
-{"name": "IL", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.04950},
-{"name": "IN", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.03230},
-{"name": "IA", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00360},
-{"name": "IA", "greater than": 1573, "last bracket ": 1572, "initial tax": 5.66, "new rate ": 0.00720},
-{"name": "IA", "greater than": 3146, "last bracket ": 3145, "initial tax": 16.98, "new rate ": 0.02430},
-{"name": "IA", "greater than": 6292, "last bracket ": 6291, "initial tax": 93.43, "new rate ": 0.04500},
-{"name": "IA", "greater than": 14157, "last bracket ": 14156, "initial tax": 447.36, "new rate ": 0.06120},
-{"name": "IA", "greater than": 23595, "last bracket ": 23594, "initial tax": 1024.96, "new rate ": 0.06480},
-{"name": "IA", "greater than": 31460, "last bracket ": 31459, "initial tax": 1534.62, "new rate ": 0.06800},
-{"name": "IA", "greater than": 47190, "last bracket ": 47189, "initial tax": 2604.26, "new rate ": 0.07920},
-{"name": "IA", "greater than": 70785, "last bracket ": 70784, "initial tax": 4472.98, "new rate ": 0.08980},
-{"name": "KS", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.02900},
-{"name": "KS", "greater than": 15000, "last bracket ": 14999, "initial tax": 434.97, "new rate ": 0.04900},
-{"name": "KS", "greater than": 30000, "last bracket ": 29999, "initial tax": 1169.97, "new rate ": 0.05200},
-{"name": "KY", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.02000},
-{"name": "KY", "greater than": 3000, "last bracket ": 2999, "initial tax": 59.98, "new rate ": 0.03000},
-{"name": "KY", "greater than": 4000, "last bracket ": 3999, "initial tax": 89.98, "new rate ": 0.04000},
-{"name": "KY", "greater than": 5000, "last bracket ": 4999, "initial tax": 129.98, "new rate ": 0.05000},
-{"name": "KY", "greater than": 8000, "last bracket ": 7999, "initial tax": 279.98, "new rate ": 0.05800},
-{"name": "KY", "greater than": 75000, "last bracket ": 74999, "initial tax": 4165.98, "new rate ": 0.06000},
-{"name": "LA", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.02000},
-{"name": "LA", "greater than": 12500, "last bracket ": 12499, "initial tax": 249.98, "new rate ": 0.04000},
-{"name": "LA", "greater than": 50000, "last bracket ": 49999, "initial tax": 1749.98, "new rate ": 0.06000},
-{"name": "ME", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.05800},
-{"name": "ME", "greater than": 21050, "last bracket ": 21049, "initial tax": 1220.84, "new rate ": 0.06750},
-{"name": "ME", "greater than": 50000, "last bracket ": 49999, "initial tax": 3174.97, "new rate ": 0.07150},
-{"name": "MD", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.02000},
-{"name": "MD", "greater than": 1000, "last bracket ": 999, "initial tax": 19.98, "new rate ": 0.03000},
-{"name": "MD", "greater than": 2000, "last bracket ": 1999, "initial tax": 49.98, "new rate ": 0.04000},
-{"name": "MD", "greater than": 3000, "last bracket ": 2999, "initial tax": 89.98, "new rate ": 0.04750},
-{"name": "MD", "greater than": 100000, "last bracket ": 99999, "initial tax": 4697.48, "new rate ": 0.05000},
-{"name": "MD", "greater than": 125000, "last bracket ": 124999, "initial tax": 5947.48, "new rate ": 0.05250},
-{"name": "MD", "greater than": 150000, "last bracket ": 149999, "initial tax": 7259.98, "new rate ": 0.05500},
-{"name": "MD", "greater than": 250000, "last bracket ": 249999, "initial tax": 12759.98, "new rate ": 0.05750},
-{"name": "MA", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.05100},
-{"name": "MI", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.04250},
-{"name": "MN", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.05350},
-{"name": "MN", "greater than": 25390, "last bracket ": 25389, "initial tax": 1358.31, "new rate ": 0.07050},
-{"name": "MN", "greater than": 83400, "last bracket ": 83399, "initial tax": 5448.02, "new rate ": 0.07850},
-{"name": "MN", "greater than": 156911, "last bracket ": 156910, "initial tax": 11218.63, "new rate ": 0.09850},
-{"name": "MS", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.03000},
-{"name": "MS", "greater than": 5000, "last bracket ": 4999, "initial tax": 149.97, "new rate ": 0.04000},
-{"name": "MS", "greater than": 10000, "last bracket ": 9999, "initial tax": 349.97, "new rate ": 0.05000},
-{"name": "MO", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.01500},
-{"name": "MO", "greater than": 1008, "last bracket ": 1007, "initial tax": 15.11, "new rate ": 0.02000},
-{"name": "MO", "greater than": 2016, "last bracket ": 2015, "initial tax": 35.27, "new rate ": 0.02500},
-{"name": "MO", "greater than": 3024, "last bracket ": 3023, "initial tax": 60.47, "new rate ": 0.03000},
-{"name": "MO", "greater than": 4032, "last bracket ": 4031, "initial tax": 90.71, "new rate ": 0.03500},
-{"name": "MO", "greater than": 5040, "last bracket ": 5039, "initial tax": 125.99, "new rate ": 0.04000},
-{"name": "MO", "greater than": 6048, "last bracket ": 6047, "initial tax": 166.31, "new rate ": 0.04500},
-{"name": "MO", "greater than": 7056, "last bracket ": 7055, "initial tax": 211.67, "new rate ": 0.05000},
-{"name": "MO", "greater than": 8064, "last bracket ": 8063, "initial tax": 262.07, "new rate ": 0.05500},
-{"name": "MO", "greater than": 9072, "last bracket ": 9071, "initial tax": 317.51, "new rate ": 0.06000},
-{"name": "MT", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.01000},
-{"name": "MT", "greater than": 2900, "last bracket ": 2899, "initial tax": 28.99, "new rate ": 0.02000},
-{"name": "MT", "greater than": 5200, "last bracket ": 5199, "initial tax": 74.99, "new rate ": 0.03000},
-{"name": "MT", "greater than": 7900, "last bracket ": 7899, "initial tax": 155.99, "new rate ": 0.04000},
-{"name": "MT", "greater than": 10600, "last bracket ": 10599, "initial tax": 263.99, "new rate ": 0.05000},
-{"name": "MT", "greater than": 13600, "last bracket ": 13599, "initial tax": 413.99, "new rate ": 0.06000},
-{"name": "MT", "greater than": 17600, "last bracket ": 17599, "initial tax": 653.99, "new rate ": 0.06900},
-{"name": "NE", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.02460},
-{"name": "NE", "greater than": 3090, "last bracket ": 3089, "initial tax": 75.99, "new rate ": 0.03510},
-{"name": "NE", "greater than": 18510, "last bracket ": 18509, "initial tax": 617.23, "new rate ": 0.05010},
-{"name": "NE", "greater than": 29830, "last bracket ": 29829, "initial tax": 1184.36, "new rate ": 0.06840},
-{"name": "NV", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00000},
-{"name": "NH", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.05000},
-{"name": "NJ", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.01400},
-{"name": "NJ", "greater than": 20000, "last bracket ": 19999, "initial tax": 279.99, "new rate ": 0.01750},
-{"name": "NJ", "greater than": 35000, "last bracket ": 34999, "initial tax": 542.49, "new rate ": 0.03500},
-{"name": "NJ", "greater than": 40000, "last bracket ": 39999, "initial tax": 717.49, "new rate ": 0.05525},
-{"name": "NJ", "greater than": 75000, "last bracket ": 74999, "initial tax": 2651.24, "new rate ": 0.06370},
-{"name": "NJ", "greater than": 500000, "last bracket ": 499999, "initial tax": 29723.74, "new rate ": 0.08970},
-{"name": "NM", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.01700},
-{"name": "NM", "greater than": 5500, "last bracket ": 5499, "initial tax": 93.48, "new rate ": 0.03200},
-{"name": "NM", "greater than": 11000, "last bracket ": 10999, "initial tax": 269.48, "new rate ": 0.04700},
-{"name": "NM", "greater than": 16000, "last bracket ": 15999, "initial tax": 504.48, "new rate ": 0.04900},
-{"name": "NY", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.04000},
-{"name": "NY", "greater than": 8500, "last bracket ": 8499, "initial tax": 339.96, "new rate ": 0.04500},
-{"name": "NY", "greater than": 11700, "last bracket ": 11699, "initial tax": 483.96, "new rate ": 0.05250},
-{"name": "NY", "greater than": 13900, "last bracket ": 13899, "initial tax": 599.46, "new rate ": 0.05900},
-{"name": "NY", "greater than": 21400, "last bracket ": 21399, "initial tax": 1041.96, "new rate ": 0.06450},
-{"name": "NY", "greater than": 80650, "last bracket ": 80649, "initial tax": 4863.59, "new rate ": 0.06650},
-{"name": "NY", "greater than": 215400, "last bracket ": 215399, "initial tax": 13824.46, "new rate ": 0.06850},
-{"name": "NY", "greater than": 1077550, "last bracket ": 1077549, "initial tax": 72881.74, "new rate ": 0.08820},
-{"name": "NC", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.05499},
-{"name": "ND", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.01100},
-{"name": "ND", "greater than": 37950, "last bracket ": 37949, "initial tax": 417.44, "new rate ": 0.02040},
-{"name": "ND", "greater than": 91900, "last bracket ": 91899, "initial tax": 1518.02, "new rate ": 0.02270},
-{"name": "ND", "greater than": 191650, "last bracket ": 191649, "initial tax": 3782.34, "new rate ": 0.02640},
-{"name": "ND", "greater than": 416700, "last bracket ": 416699, "initial tax": 9723.66, "new rate ": 0.02900},
-{"name": "OH", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00495},
-{"name": "OH", "greater than": 5250, "last bracket ": 5249, "initial tax": 25.98, "new rate ": 0.00990},
-{"name": "OH", "greater than": 10500, "last bracket ": 10499, "initial tax": 77.96, "new rate ": 0.01980},
-{"name": "OH", "greater than": 15800, "last bracket ": 15799, "initial tax": 182.90, "new rate ": 0.02476},
-{"name": "OH", "greater than": 21100, "last bracket ": 21099, "initial tax": 314.13, "new rate ": 0.02969},
-{"name": "OH", "greater than": 42100, "last bracket ": 42099, "initial tax": 937.62, "new rate ": 0.03465},
-{"name": "OH", "greater than": 84200, "last bracket ": 84199, "initial tax": 2396.38, "new rate ": 0.03960},
-{"name": "OH", "greater than": 105300, "last bracket ": 105299, "initial tax": 3231.94, "new rate ": 0.04597},
-{"name": "OH", "greater than": 210600, "last bracket ": 210599, "initial tax": 8072.58, "new rate ": 0.04997},
-{"name": "OK", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00500},
-{"name": "OK", "greater than": 1000, "last bracket ": 999, "initial tax": 5.00, "new rate ": 0.01000},
-{"name": "OK", "greater than": 2500, "last bracket ": 2499, "initial tax": 20.00, "new rate ": 0.02000},
-{"name": "OK", "greater than": 3750, "last bracket ": 3749, "initial tax": 45.00, "new rate ": 0.03000},
-{"name": "OK", "greater than": 4900, "last bracket ": 4899, "initial tax": 79.50, "new rate ": 0.04000},
-{"name": "OK", "greater than": 7200, "last bracket ": 7199, "initial tax": 171.50, "new rate ": 0.05000},
-{"name": "OR", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.05000},
-{"name": "OR", "greater than": 3350, "last bracket ": 3349, "initial tax": 167.45, "new rate ": 0.07000},
-{"name": "OR", "greater than": 8450, "last bracket ": 8449, "initial tax": 524.45, "new rate ": 0.09000},
-{"name": "OR", "greater than": 125000, "last bracket ": 124999, "initial tax": 11013.95, "new rate ": 0.09900},
-{"name": "PA", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.03070},
-{"name": "RI", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.03750},
-{"name": "RI", "greater than": 61300, "last bracket ": 61299, "initial tax": 2298.71, "new rate ": 0.04750},
-{"name": "RI", "greater than": 139400, "last bracket ": 139399, "initial tax": 6008.46, "new rate ": 0.05990},
-{"name": "SC", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00000},
-{"name": "SC", "greater than": 2930, "last bracket ": 2929, "initial tax": 0.00, "new rate ": 0.03000},
-{"name": "SC", "greater than": 5860, "last bracket ": 5859, "initial tax": 87.90, "new rate ": 0.04000},
-{"name": "SC", "greater than": 8790, "last bracket ": 8789, "initial tax": 205.10, "new rate ": 0.05000},
-{"name": "SC", "greater than": 11720, "last bracket ": 11719, "initial tax": 351.60, "new rate ": 0.06000},
-{"name": "SC", "greater than": 14650, "last bracket ": 14649, "initial tax": 527.40, "new rate ": 0.07000},
-{"name": "SD", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00000},
-{"name": "TN", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.05000},
-{"name": "TX", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00000},
-{"name": "UT", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.05000},
-{"name": "VT", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.03550},
-{"name": "VT", "greater than": 37950, "last bracket ": 37949, "initial tax": 1347.19, "new rate ": 0.06800},
-{"name": "VT", "greater than": 91900, "last bracket ": 91899, "initial tax": 5015.79, "new rate ": 0.07800},
-{"name": "VT", "greater than": 191650, "last bracket ": 191649, "initial tax": 12796.29, "new rate ": 0.08800},
-{"name": "VT", "greater than": 416700, "last bracket ": 416699, "initial tax": 32600.69, "new rate ": 0.08950},
-{"name": "VA", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.02000},
-{"name": "VA", "greater than": 3000, "last bracket ": 2999, "initial tax": 59.98, "new rate ": 0.03000},
-{"name": "VA", "greater than": 5000, "last bracket ": 4999, "initial tax": 119.98, "new rate ": 0.05000},
-{"name": "VA", "greater than": 17000, "last bracket ": 16999, "initial tax": 719.98, "new rate ": 0.05750},
-{"name": "WA", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00000},
-{"name": "WV", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.03000},
-{"name": "WV", "greater than": 10000, "last bracket ": 9999, "initial tax": 299.97, "new rate ": 0.04000},
-{"name": "WV", "greater than": 25000, "last bracket ": 24999, "initial tax": 899.97, "new rate ": 0.04500},
-{"name": "WV", "greater than": 40000, "last bracket ": 39999, "initial tax": 1574.97, "new rate ": 0.06000},
-{"name": "WV", "greater than": 60000, "last bracket ": 59999, "initial tax": 2774.97, "new rate ": 0.06500},
-{"name": "WI", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.04000},
-{"name": "WI", "greater than": 11230, "last bracket ": 11229, "initial tax": 449.16, "new rate ": 0.05840},
-{"name": "WI", "greater than": 22470, "last bracket ": 22469, "initial tax": 1105.58, "new rate ": 0.06270},
-{"name": "WI", "greater than": 247350, "last bracket ": 247349, "initial tax": 15205.55, "new rate ": 0.07650},
-{"name": "WY", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00000}];
+[
+  {"model": "brackets.state", "pk": "ALS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.02000}},
+  {"model": "brackets.state", "pk": "ALS2", "fields":
+    {"greater_than": 500, "last_bkt": 999, "init_tax": 19.98, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "ALS3", "fields":
+    {"greater_than": 3000, "last_bkt": 5999, "init_tax": 219.98, "new_rate": 0.05000}},
 
-[{"name": "AL", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.02000},
-{"name": "AL", "greater than": 1000, "last bracket ": 999, "initial tax": 19.98, "new rate ": 0.04000},
-{"name": "AL", "greater than": 6000, "last bracket ": 5999, "initial tax": 219.98, "new rate ": 0.05000},
-{"name": "AK", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00000},
-{"name": "AZ", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.02590},
-{"name": "AZ", "greater than": 20357, "last bracket ": 20256, "initial tax": 524.63, "new rate ": 0.02880},
-{"name": "AZ", "greater than": 50890, "last bracket ": 50889, "initial tax": 1406.86, "new rate ": 0.03360},
-{"name": "AZ", "greater than": 101779, "last bracket ": 101778, "initial tax": 3116.73, "new rate ": 0.04240},
-{"name": "AZ", "greater than": 305336, "last bracket ": 305335, "initial tax": 11747.55, "new rate ": 0.04540},
-{"name": "AK", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00900},
-{"name": "AK", "greater than": 4299, "last bracket ": 4298, "initial tax": 0.00, "new rate ": 0.02500},
-{"name": "AK", "greater than": 8500, "last bracket ": 8499, "initial tax": 212.48, "new rate ": 0.03500},
-{"name": "AK", "greater than": 12699, "last bracket ": 12698, "initial tax": 359.44, "new rate ": 0.04500},
-{"name": "AK", "greater than": 21199, "last bracket ": 21198, "initial tax": 741.94, "new rate ": 0.06000},
-{"name": "AK", "greater than": 35100, "last bracket ": 35099, "initial tax": 1576.00, "new rate ": 0.06900},
-{"name": "CA", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.01000},
-{"name": "CA", "greater than": 16030, "last bracket ": 16029, "initial tax": 160.29, "new rate ": 0.02000},
-{"name": "CA", "greater than": 38002, "last bracket ": 38001, "initial tax": 599.73, "new rate ": 0.04000},
-{"name": "CA", "greater than": 59978, "last bracket ": 59977, "initial tax": 1478.77, "new rate ": 0.06000},
-{"name": "CA", "greater than": 83258, "last bracket ": 83257, "initial tax": 2875.57, "new rate ": 0.08000},
-{"name": "CA", "greater than": 105224, "last bracket ": 105223, "initial tax": 4632.85, "new rate ": 0.09300},
-{"name": "CA", "greater than": 537500, "last bracket ": 537499, "initial tax": 44834.52, "new rate ": 0.10300},
-{"name": "CA", "greater than": 644998, "last bracket ": 644997, "initial tax": 55906.81, "new rate ": 0.11300},
-{"name": "CA", "greater than": 1000000, "last bracket ": 999999, "initial tax": 96022.04, "new rate ": 0.12300},
-{"name": "CA", "greater than": 1074996, "last bracket ": 1074995, "initial tax": 105246.55, "new rate ": 0.13300},
-{"name": "CO", "greater than": 0, "last bracket ": 0, "initial tax": 0, "new rate ": 0.04630},
-{"name": "CT", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.03000},
-{"name": "CT", "greater than": 20000, "last bracket ": 19999, "initial tax": 599.97, "new rate ": 0.05000},
-{"name": "CT", "greater than": 100000, "last bracket ": 99999, "initial tax": 4599.97, "new rate ": 0.05500},
-{"name": "CT", "greater than": 200000, "last bracket ": 199999, "initial tax": 10099.97, "new rate ": 0.06000},
-{"name": "CT", "greater than": 400000, "last bracket ": 399999, "initial tax": 22099.97, "new rate ": 0.06500},
-{"name": "CT", "greater than": 500000, "last bracket ": 499999, "initial tax": 28599.97, "new rate ": 0.06900},
-{"name": "CT", "greater than": 1000000, "last bracket ": 999999, "initial tax": 63099.97, "new rate ": 0.06990},
-{"name": "DE", "greater than": 2000, "last bracket ": 1999, "initial tax": 0.00, "new rate ": 0.02200},
-{"name": "DE", "greater than": 5000, "last bracket ": 4999, "initial tax": 66.00, "new rate ": 0.03900},
-{"name": "DE", "greater than": 10000, "last bracket ": 9999, "initial tax": 261.00, "new rate ": 0.04800},
-{"name": "DE", "greater than": 20000, "last bracket ": 19999, "initial tax": 741.00, "new rate ": 0.05200},
-{"name": "DE", "greater than": 25000, "last bracket ": 24999, "initial tax": 1001.00, "new rate ": 0.05550},
-{"name": "DE", "greater than": 60000, "last bracket ": 59999, "initial tax": 2943.50, "new rate ": 0.06600},
-{"name": "FL", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00000},
-{"name": "GA", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.01000},
-{"name": "GA", "greater than": 1000, "last bracket ": 999, "initial tax": 9.99, "new rate ": 0.02000},
-{"name": "GA", "greater than": 3000, "last bracket ": 2999, "initial tax": 49.99, "new rate ": 0.03000},
-{"name": "GA", "greater than": 5000, "last bracket ": 4999, "initial tax": 109.99, "new rate ": 0.04000},
-{"name": "GA", "greater than": 7000, "last bracket ": 6999, "initial tax": 189.99, "new rate ": 0.05000},
-{"name": "GA", "greater than": 10000, "last bracket ": 9999, "initial tax": 339.99, "new rate ": 0.06000},
-{"name": "HI", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.01400},
-{"name": "HI", "greater than": 4800, "last bracket ": 4799, "initial tax": 67.19, "new rate ": 0.03200},
-{"name": "HI", "greater than": 9600, "last bracket ": 9599, "initial tax": 220.79, "new rate ": 0.05500},
-{"name": "HI", "greater than": 19200, "last bracket ": 19199, "initial tax": 748.79, "new rate ": 0.06400},
-{"name": "HI", "greater than": 28800, "last bracket ": 28799, "initial tax": 1363.19, "new rate ": 0.06800},
-{"name": "HI", "greater than": 38400, "last bracket ": 38399, "initial tax": 2015.99, "new rate ": 0.07200},
-{"name": "HI", "greater than": 48000, "last bracket ": 47999, "initial tax": 2707.19, "new rate ": 0.07600},
-{"name": "HI", "greater than": 72000, "last bracket ": 71999, "initial tax": 4531.19, "new rate ": 0.07900},
-{"name": "HI", "greater than": 96000, "last bracket ": 95999, "initial tax": 6427.19, "new rate ": 0.08250},
-{"name": "HI", "greater than": 300000, "last bracket ": 299999, "initial tax": 23257.19, "new rate ": 0.09000},
-{"name": "HI", "greater than": 350000, "last bracket ": 349999, "initial tax": 27757.19, "new rate ": 0.10000},
-{"name": "HI", "greater than": 400000, "last bracket ": 399999, "initial tax": 32757.19, "new rate ": 0.11000},
-{"name": "ID", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.01600},
-{"name": "ID", "greater than": 2908, "last bracket ": 2907, "initial tax": 46.51, "new rate ": 0.03600},
-{"name": "ID", "greater than": 5816, "last bracket ": 5815, "initial tax": 151.20, "new rate ": 0.04100},
-{"name": "ID", "greater than": 8724, "last bracket ": 8723, "initial tax": 270.43, "new rate ": 0.05100},
-{"name": "ID", "greater than": 11632, "last bracket ": 11631, "initial tax": 418.74, "new rate ": 0.06100},
-{"name": "ID", "greater than": 14540, "last bracket ": 14539, "initial tax": 596.12, "new rate ": 0.07100},
-{"name": "ID", "greater than": 21810, "last bracket ": 21809, "initial tax": 1112.29, "new rate ": 0.07400},
-{"name": "IL", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.04950},
-{"name": "IN", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.02320},
-{"name": "IA", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00360},
-{"name": "IA", "greater than": 1573, "last bracket ": 1572, "initial tax": 5.66, "new rate ": 0.00720},
-{"name": "IA", "greater than": 3146, "last bracket ": 3145, "initial tax": 16.98, "new rate ": 0.02430},
-{"name": "IA", "greater than": 6292, "last bracket ": 6291, "initial tax": 93.43, "new rate ": 0.04500},
-{"name": "IA", "greater than": 14157, "last bracket ": 14156, "initial tax": 447.36, "new rate ": 0.06120},
-{"name": "IA", "greater than": 23595, "last bracket ": 23594, "initial tax": 1024.96, "new rate ": 0.06480},
-{"name": "IA", "greater than": 31460, "last bracket ": 31459, "initial tax": 1534.62, "new rate ": 0.06800},
-{"name": "IA", "greater than": 47190, "last bracket ": 47189, "initial tax": 2604.26, "new rate ": 0.07920},
-{"name": "IA", "greater than": 70785, "last bracket ": 70784, "initial tax": 4472.98, "new rate ": 0.08980},
-{"name": "KS", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.02900},
-{"name": "KS", "greater than": 30000, "last bracket ": 29999, "initial tax": 869.97, "new rate ": 0.04900},
-{"name": "KS", "greater than": 60000, "last bracket ": 59999, "initial tax": 2339.97, "new rate ": 0.05200},
-{"name": "KY", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.02000},
-{"name": "KY", "greater than": 3000, "last bracket ": 2999, "initial tax": 59.98, "new rate ": 0.03000},
-{"name": "KY", "greater than": 4000, "last bracket ": 3999, "initial tax": 89.98, "new rate ": 0.04000},
-{"name": "KY", "greater than": 5000, "last bracket ": 4999, "initial tax": 129.98, "new rate ": 0.05000},
-{"name": "KY", "greater than": 8000, "last bracket ": 7999, "initial tax": 279.98, "new rate ": 0.05800},
-{"name": "KY", "greater than": 75000, "last bracket ": 74999, "initial tax": 4165.98, "new rate ": 0.06000},
-{"name": "LA", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.02000},
-{"name": "LA", "greater than": 25000, "last bracket ": 24999, "initial tax": 499.98, "new rate ": 0.04000},
-{"name": "LA", "greater than": 100000, "last bracket ": 99999, "initial tax": 3499.98, "new rate ": 0.06000},
-{"name": "ME", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.05800},
-{"name": "ME", "greater than": 42099, "last bracket ": 42098, "initial tax": 2441.68, "new rate ": 0.06750},
-{"name": "ME", "greater than": 74999, "last bracket ": 74998, "initial tax": 4662.43, "new rate ": 0.07150},
-{"name": "MD", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.02000},
-{"name": "MD", "greater than": 1000, "last bracket ": 999, "initial tax": 19.98, "new rate ": 0.03000},
-{"name": "MD", "greater than": 2000, "last bracket ": 1999, "initial tax": 49.98, "new rate ": 0.04000},
-{"name": "MD", "greater than": 3000, "last bracket ": 2999, "initial tax": 89.98, "new rate ": 0.04750},
-{"name": "MD", "greater than": 150000, "last bracket ": 149999, "initial tax": 7072.48, "new rate ": 0.05000},
-{"name": "MD", "greater than": 175000, "last bracket ": 174999, "initial tax": 8322.48, "new rate ": 0.05250},
-{"name": "MD", "greater than": 225000, "last bracket ": 224999, "initial tax": 10947.48, "new rate ": 0.05500},
-{"name": "MD", "greater than": 300000, "last bracket ": 299999, "initial tax": 15072.48, "new rate ": 0.05750},
-{"name": "MA", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.05100},
-{"name": "MI", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.04250},
-{"name": "MN", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.05350},
-{"name": "MN", "greater than": 1000, "last bracket ": 999, "initial tax": 53.45, "new rate ": 0.07050},
-{"name": "MN", "greater than": 2000, "last bracket ": 1999, "initial tax": 123.95, "new rate ": 0.07850},
-{"name": "MN", "greater than": 3000, "last bracket ": 2999, "initial tax": 202.45, "new rate ": 0.09850},
-{"name": "MS", "greater than": 150000, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.03000},
-{"name": "MS", "greater than": 175000, "last bracket ": 174999, "initial tax": 5249.97, "new rate ": 0.04000},
-{"name": "MS", "greater than": 225000, "last bracket ": 224999, "initial tax": 7249.97, "new rate ": 0.05000},
-{"name": "MO", "greater than": 300000, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.01500},
-{"name": "MO", "greater than": 1008, "last bracket ": 1007, "initial tax": 15.11, "new rate ": 0.02000},
-{"name": "MO", "greater than": 2016, "last bracket ": 2015, "initial tax": 35.27, "new rate ": 0.02500},
-{"name": "MO", "greater than": 3024, "last bracket ": 3023, "initial tax": 60.47, "new rate ": 0.03000},
-{"name": "MO", "greater than": 4032, "last bracket ": 4031, "initial tax": 90.71, "new rate ": 0.03500},
-{"name": "MO", "greater than": 5040, "last bracket ": 5039, "initial tax": 125.99, "new rate ": 0.04000},
-{"name": "MO", "greater than": 6048, "last bracket ": 6047, "initial tax": 166.31, "new rate ": 0.04500},
-{"name": "MO", "greater than": 7056, "last bracket ": 7055, "initial tax": 211.67, "new rate ": 0.05000},
-{"name": "MO", "greater than": 8064, "last bracket ": 8063, "initial tax": 262.07, "new rate ": 0.05500},
-{"name": "MO", "greater than": 9072, "last bracket ": 9071, "initial tax": 317.51, "new rate ": 0.06000},
-{"name": "MT", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.01000},
-{"name": "MT", "greater than": 2900, "last bracket ": 2899, "initial tax": 28.99, "new rate ": 0.02000},
-{"name": "MT", "greater than": 5200, "last bracket ": 5199, "initial tax": 74.99, "new rate ": 0.03000},
-{"name": "MT", "greater than": 7900, "last bracket ": 7899, "initial tax": 155.99, "new rate ": 0.04000},
-{"name": "MT", "greater than": 10600, "last bracket ": 10599, "initial tax": 263.99, "new rate ": 0.05000},
-{"name": "MT", "greater than": 13600, "last bracket ": 13599, "initial tax": 413.99, "new rate ": 0.06000},
-{"name": "MT", "greater than": 17600, "last bracket ": 17599, "initial tax": 653.99, "new rate ": 0.06900},
-{"name": "NE", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.02460},
-{"name": "NE", "greater than": 6170, "last bracket ": 6169, "initial tax": 151.76, "new rate ": 0.03510},
-{"name": "NE", "greater than": 37030, "last bracket ": 37029, "initial tax": 1234.94, "new rate ": 0.05010},
-{"name": "NE", "greater than": 59660, "last bracket ": 59659, "initial tax": 2368.71, "new rate ": 0.06840},
-{"name": "NV", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00000},
-{"name": "NH", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.05000},
-{"name": "NJ", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.01400},
-{"name": "NJ", "greater than": 20000, "last bracket ": 19999, "initial tax": 279.99, "new rate ": 0.01750},
-{"name": "NJ", "greater than": 50000, "last bracket ": 49999, "initial tax": 804.99, "new rate ": 0.02450},
-{"name": "NJ", "greater than": 70000, "last bracket ": 69999, "initial tax": 1294.99, "new rate ": 0.03500},
-{"name": "NJ", "greater than": 80000, "last bracket ": 79999, "initial tax": 1644.99, "new rate ": 0.05525},
-{"name": "NJ", "greater than": 150000, "last bracket ": 149999, "initial tax": 5512.49, "new rate ": 0.06370},
-{"name": "NJ", "greater than": 500000, "last bracket ": 499999, "initial tax": 27807.49, "new rate ": 0.08970},
-{"name": "NM", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.01700},
-{"name": "NM", "greater than": 8000, "last bracket ": 7999, "initial tax": 135.98, "new rate ": 0.03200},
-{"name": "NM", "greater than": 16000, "last bracket ": 15999, "initial tax": 391.98, "new rate ": 0.04700},
-{"name": "NM", "greater than": 24000, "last bracket ": 23999, "initial tax": 767.98, "new rate ": 0.04900},
-{"name": "NY", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.04000},
-{"name": "NY", "greater than": 17150, "last bracket ": 17149, "initial tax": 685.96, "new rate ": 0.04500},
-{"name": "NY", "greater than": 23600, "last bracket ": 23599, "initial tax": 976.21, "new rate ": 0.05250},
-{"name": "NY", "greater than": 27900, "last bracket ": 27899, "initial tax": 1201.96, "new rate ": 0.05900},
-{"name": "NY", "greater than": 43000, "last bracket ": 42999, "initial tax": 2092.86, "new rate ": 0.06450},
-{"name": "NY", "greater than": 161550, "last bracket ": 161549, "initial tax": 9739.34, "new rate ": 0.06650},
-{"name": "NY", "greater than": 323200, "last bracket ": 323199, "initial tax": 20489.06, "new rate ": 0.06850},
-{"name": "NY", "greater than": 2155350, "last bracket ": 2155349, "initial tax": 145991.34, "new rate ": 0.08820},
-{"name": "NC", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.05499},
-{"name": "ND", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.01100},
-{"name": "ND", "greater than": 63400, "last bracket ": 63399, "initial tax": 697.39, "new rate ": 0.02040},
-{"name": "ND", "greater than": 153100, "last bracket ": 153099, "initial tax": 2527.27, "new rate ": 0.02270},
-{"name": "ND", "greater than": 233350, "last bracket ": 233349, "initial tax": 4348.94, "new rate ": 0.02640},
-{"name": "ND", "greater than": 416700, "last bracket ": 416699, "initial tax": 9189.38, "new rate ": 0.02900},
-{"name": "OH", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00495},
-{"name": "OH", "greater than": 5250, "last bracket ": 5249, "initial tax": 25.98, "new rate ": 0.00990},
-{"name": "OH", "greater than": 10500, "last bracket ": 10499, "initial tax": 77.96, "new rate ": 0.01980},
-{"name": "OH", "greater than": 15800, "last bracket ": 15799, "initial tax": 182.90, "new rate ": 0.02476},
-{"name": "OH", "greater than": 21100, "last bracket ": 21099, "initial tax": 314.13, "new rate ": 0.02969},
-{"name": "OH", "greater than": 42100, "last bracket ": 42099, "initial tax": 937.62, "new rate ": 0.03465},
-{"name": "OH", "greater than": 84200, "last bracket ": 84199, "initial tax": 2396.38, "new rate ": 0.03960},
-{"name": "OH", "greater than": 105300, "last bracket ": 105299, "initial tax": 3231.94, "new rate ": 0.04597},
-{"name": "OH", "greater than": 210600, "last bracket ": 210599, "initial tax": 8072.58, "new rate ": 0.04997},
-{"name": "OK", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00500},
-{"name": "OK", "greater than": 2000, "last bracket ": 1999, "initial tax": 10.00, "new rate ": 0.01000},
-{"name": "OK", "greater than": 5000, "last bracket ": 4999, "initial tax": 40.00, "new rate ": 0.02000},
-{"name": "OK", "greater than": 7500, "last bracket ": 7499, "initial tax": 90.00, "new rate ": 0.03000},
-{"name": "OK", "greater than": 9800, "last bracket ": 9799, "initial tax": 159.00, "new rate ": 0.04000},
-{"name": "OK", "greater than": 12200, "last bracket ": 12199, "initial tax": 255.00, "new rate ": 0.05000},
-{"name": "OR", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.05000},
-{"name": "OR", "greater than": 6700, "last bracket ": 6699, "initial tax": 334.95, "new rate ": 0.07000},
-{"name": "OR", "greater than": 16900, "last bracket ": 16899, "initial tax": 1048.95, "new rate ": 0.09000},
-{"name": "OR", "greater than": 250000, "last bracket ": 249999, "initial tax": 22027.95, "new rate ": 0.09900},
-{"name": "PA", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.03070},
-{"name": "RI", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.03750},
-{"name": "RI", "greater than": 61300, "last bracket ": 61299, "initial tax": 2298.71, "new rate ": 0.04750},
-{"name": "RI", "greater than": 139400, "last bracket ": 139399, "initial tax": 6008.46, "new rate ": 0.05990},
-{"name": "SC", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00000},
-{"name": "SC", "greater than": 2930, "last bracket ": 2929, "initial tax": 0.00, "new rate ": 0.03000},
-{"name": "SC", "greater than": 5860, "last bracket ": 5859, "initial tax": 87.90, "new rate ": 0.04000},
-{"name": "SC", "greater than": 8790, "last bracket ": 8789, "initial tax": 205.10, "new rate ": 0.05000},
-{"name": "SC", "greater than": 11720, "last bracket ": 11719, "initial tax": 351.60, "new rate ": 0.06000},
-{"name": "SC", "greater than": 14650, "last bracket ": 14649, "initial tax": 527.40, "new rate ": 0.07000},
-{"name": "SD", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00000},
-{"name": "TN", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.05000},
-{"name": "TX", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00000},
-{"name": "UT", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.05000},
-{"name": "VT", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.03550},
-{"name": "VT", "greater than": 63350, "last bracket ": 63349, "initial tax": 2248.89, "new rate ": 0.06800},
-{"name": "VT", "greater than": 153100, "last bracket ": 153099, "initial tax": 8351.89, "new rate ": 0.07800},
-{"name": "VT", "greater than": 233350, "last bracket ": 233349, "initial tax": 14611.39, "new rate ": 0.08800},
-{"name": "VT", "greater than": 416700, "last bracket ": 416699, "initial tax": 30746.19, "new rate ": 0.08950},
-{"name": "VA", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.02000},
-{"name": "VA", "greater than": 3000, "last bracket ": 2999, "initial tax": 59.98, "new rate ": 0.03000},
-{"name": "VA", "greater than": 5000, "last bracket ": 4999, "initial tax": 119.98, "new rate ": 0.05000},
-{"name": "VA", "greater than": 17000, "last bracket ": 16999, "initial tax": 719.98, "new rate ": 0.05750},
-{"name": "WA", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00000},
-{"name": "WV", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.03000},
-{"name": "WV", "greater than": 10000, "last bracket ": 9999, "initial tax": 299.97, "new rate ": 0.04000},
-{"name": "WV", "greater than": 25000, "last bracket ": 24999, "initial tax": 899.97, "new rate ": 0.04500},
-{"name": "WV", "greater than": 40000, "last bracket ": 39999, "initial tax": 1574.97, "new rate ": 0.06000},
-{"name": "WV", "greater than": 60000, "last bracket ": 59999, "initial tax": 2774.97, "new rate ": 0.06500},
-{"name": "WI", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.04000},
-{"name": "WI", "greater than": 14980, "last bracket ": 14979, "initial tax": 599.16, "new rate ": 0.05840},
-{"name": "WI", "greater than": 29960, "last bracket ": 29959, "initial tax": 1473.99, "new rate ": 0.06270},
-{"name": "WI", "greater than": 329810, "last bracket ": 329809, "initial tax": 20274.59, "new rate ": 0.07650},
-{"name": "WY", "greater than": 0, "last bracket ": 0, "initial tax": 0.00, "new rate ": 0.00000}]
+  {"model": "brackets.state", "pk": "AKS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00000}},
+
+  {"model": "brackets.state", "pk": "AZS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.02590}},
+  {"model": "brackets.state", "pk": "AZS2", "fields":
+    {"greater_than": 10179, "last_bkt": 20256, "init_tax": 524.63, "new_rate": 0.02880}},
+  {"model": "brackets.state", "pk": "AZS3", "fields":
+    {"greater_than": 25445, "last_bkt": 50889, "init_tax": 1406.86, "new_rate": 0.03360}},
+  {"model": "brackets.state", "pk": "AZS4", "fields":
+    {"greater_than": 50890, "last_bkt": 101778, "init_tax": 3116.73, "new_rate": 0.04240}},
+  {"model": "brackets.state", "pk": "AZS5", "fields":
+    {"greater_than": 152668, "last_bkt": 305335, "init_tax": 11747.55, "new_rate": 0.04540}},
+
+  {"model": "brackets.state", "pk": "ARS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00900}},
+  {"model": "brackets.state", "pk": "ARS2", "fields":
+    {"greater_than": 4299, "last_bkt": 4298, "init_tax": 0.00, "new_rate": 0.02500}},
+  {"model": "brackets.state", "pk": "ARS3", "fields":
+    {"greater_than": 8500, "last_bkt": 8499, "init_tax": 212.48, "new_rate": 0.03500}},
+  {"model": "brackets.state", "pk": "ARS4", "fields":
+    {"greater_than": 12699, "last_bkt": 12698, "init_tax": 359.44, "new_rate": 0.04500}},
+  {"model": "brackets.state", "pk": "ARS5", "fields":
+    {"greater_than": 21199, "last_bkt": 21198, "init_tax": 741.94, "new_rate": 0.06000}},
+  {"model": "brackets.state", "pk": "ARS6", "fields":
+    {"greater_than": 35100, "last_bkt": 35099, "init_tax": 1576.00, "new_rate": 0.06900}},
+
+  {"model": "brackets.state", "pk": "CAS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.01000}},
+  {"model": "brackets.state", "pk": "CAS2", "fields":
+    {"greater_than": 8015, "last_bkt": 8014, "init_tax": 80.14, "new_rate": 0.02000}},
+  {"model": "brackets.state", "pk": "CAS3", "fields":
+    {"greater_than": 19001, "last_bkt": 19000, "init_tax": 299.86, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "CAS4", "fields":
+    {"greater_than": 29989, "last_bkt": 29988, "init_tax": 739.38, "new_rate": 0.06000}},
+  {"model": "brackets.state", "pk": "CAS5", "fields":
+    {"greater_than": 41629, "last_bkt": 41628, "init_tax": 1437.78, "new_rate": 0.08000}},
+  {"model": "brackets.state", "pk": "CAS6", "fields":
+    {"greater_than": 52612, "last_bkt": 52611, "init_tax": 2316.42, "new_rate": 0.09300}},
+  {"model": "brackets.state", "pk": "CAS7", "fields":
+    {"greater_than": 268750, "last_bkt": 268749, "init_tax": 22417.25, "new_rate": 0.10300}},
+  {"model": "brackets.state", "pk": "CAS8", "fields":
+    {"greater_than": 322499, "last_bkt": 322498, "init_tax": 27953.40, "new_rate": 0.11300}},
+  {"model": "brackets.state", "pk": "CAS9", "fields":
+    {"greater_than": 537498, "last_bkt": 537497, "init_tax": 52248.29, "new_rate": 0.12300}},
+  {"model": "brackets.state", "pk": "CAS10", "fields":
+    {"greater_than": 1000000, "last_bkt": 999999, "init_tax": 109136.03, "new_rate": 0.13300}},
+
+  {"model": "brackets.state", "pk": "COS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0, "new_rate": 0.04630}},
+
+  {"model": "brackets.state", "pk": "CTS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "CTS2", "fields":
+    {"greater_than": 10000, "last_bkt": 9999, "init_tax": 299.97, "new_rate": 0.05000}},
+  {"model": "brackets.state", "pk": "CTS3", "fields":
+    {"greater_than": 50000, "last_bkt": 49999, "init_tax": 2299.97, "new_rate": 0.05500}},
+  {"model": "brackets.state", "pk": "CTS4", "fields":
+    {"greater_than": 100000, "last_bkt": 99999, "init_tax": 5049.97, "new_rate": 0.06000}},
+  {"model": "brackets.state", "pk": "CTS5", "fields":
+    {"greater_than": 200000, "last_bkt": 199999, "init_tax": 11049.97, "new_rate": 0.06500}},
+  {"model": "brackets.state", "pk": "CTS6", "fields":
+    {"greater_than": 250000, "last_bkt": 249999, "init_tax": 14299.97, "new_rate": 0.06900}},
+  {"model": "brackets.state", "pk": "CTS7", "fields":
+    {"greater_than": 500000, "last_bkt": 499999, "init_tax": 31549.97, "new_rate": 0.06990}},
+
+  {"model": "brackets.state", "pk": "DES1", "fields":
+    {"greater_than": 2000, "last_bkt": 1999, "init_tax": 0.00, "new_rate": 0.02200}},
+    {"model": "brackets.state", "pk": "DES2", "fields":
+  {"greater_than": 5000, "last_bkt": 4999, "init_tax": 66.00, "new_rate": 0.03900}},
+    {"model": "brackets.state", "pk": "DES3", "fields":
+  {"greater_than": 10000, "last_bkt": 9999, "init_tax": 261.00, "new_rate": 0.04800}},
+    {"model": "brackets.state", "pk": "DES4", "fields":
+  {"greater_than": 20000, "last_bkt": 19999, "init_tax": 741.00, "new_rate": 0.05200}},
+    {"model": "brackets.state", "pk": "DES5", "fields":
+  {"greater_than": 25000, "last_bkt": 24999, "init_tax": 1001.00, "new_rate": 0.05550}},
+    {"model": "brackets.state", "pk": "DES6", "fields":
+  {"greater_than": 60000, "last_bkt": 59999, "init_tax": 2943.50, "new_rate": 0.06600}},
+
+  {"model": "brackets.state", "pk": "FLS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00000}},
+
+  {"model": "brackets.state", "pk": "GAS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.01000}},
+  {"model": "brackets.state", "pk": "GAS1", "fields":
+    {"greater_than": 750, "last_bkt": 749, "init_tax": 7.49, "new_rate": 0.02000}},
+  {"model": "brackets.state", "pk": "GAS2", "fields":
+    {"greater_than": 2250, "last_bkt": 2249, "init_tax": 37.49, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "GAS3", "fields":
+    {"greater_than": 3750, "last_bkt": 3749, "init_tax": 82.49, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "GAS4", "fields":
+    {"greater_than": 5250, "last_bkt": 5249, "init_tax": 142.49, "new_rate": 0.05000}},
+  {"model": "brackets.state", "pk": "GAS5", "fields":
+    {"greater_than": 7000, "last_bkt": 6999, "init_tax": 229.99, "new_rate": 0.06000}},
+
+  {"model": "brackets.state", "pk": "HIS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.01400}},
+  {"model": "brackets.state", "pk": "HIS52", "fields":
+    {"greater_than": 2400, "last_bkt": 2399, "init_tax": 33.59, "new_rate": 0.03200}},
+  {"model": "brackets.state", "pk": "HIS3", "fields":
+    {"greater_than": 4800, "last_bkt": 4799, "init_tax": 110.39, "new_rate": 0.05500}},
+  {"model": "brackets.state", "pk": "HIS4", "fields":
+    {"greater_than": 9600, "last_bkt": 9599, "init_tax": 374.39, "new_rate": 0.06400}},
+  {"model": "brackets.state", "pk": "HIS5", "fields":
+    {"greater_than": 14400, "last_bkt": 14399, "init_tax": 681.59, "new_rate": 0.06800}},
+  {"model": "brackets.state", "pk": "HIS6", "fields":
+    {"greater_than": 19200, "last_bkt": 19199, "init_tax": 1007.99, "new_rate": 0.07200}},
+  {"model": "brackets.state", "pk": "HIS7", "fields":
+    {"greater_than": 24000, "last_bkt": 23999, "init_tax": 1353.59, "new_rate": 0.07600}},
+  {"model": "brackets.state", "pk": "HIS8", "fields":
+    {"greater_than": 36000, "last_bkt": 35999, "init_tax": 2265.59, "new_rate": 0.07900}},
+  {"model": "brackets.state", "pk": "HIS9", "fields":
+    {"greater_than": 48000, "last_bkt": 47999, "init_tax": 3213.59, "new_rate": 0.08250}},
+  {"model": "brackets.state", "pk": "HIS510", "fields":
+    {"greater_than": 150000, "last_bkt": 149999, "init_tax": 11628.59, "new_rate": 0.09000}},
+  {"model": "brackets.state", "pk": "HIS11", "fields":
+    {"greater_than": 175000, "last_bkt": 174999, "init_tax": 13878.59, "new_rate": 0.10000}},
+  {"model": "brackets.state", "pk": "HIS12", "fields":
+    {"greater_than": 200000, "last_bkt": 199999, "init_tax": 16378.59, "new_rate": 0.11000}},
+
+  {"model": "brackets.state", "pk": "IDS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.01600}},
+  {"model": "brackets.state", "pk": "IDS2", "fields":
+    {"greater_than": 1454, "last_bkt": 1453, "init_tax": 23.25, "new_rate": 0.03600}},
+  {"model": "brackets.state", "pk": "IDS3", "fields":
+    {"greater_than": 2908, "last_bkt": 2907, "init_tax": 75.59, "new_rate": 0.04100}},
+  {"model": "brackets.state", "pk": "IDS4", "fields":
+    {"greater_than": 4362, "last_bkt": 4361, "init_tax": 135.21, "new_rate": 0.05100}},
+  {"model": "brackets.state", "pk": "IDS5", "fields":
+    {"greater_than": 5816, "last_bkt": 5815, "init_tax": 209.36, "new_rate": 0.06100}},
+  {"model": "brackets.state", "pk": "IDS6", "fields":
+    {"greater_than": 7270, "last_bkt": 7269, "init_tax": 298.05, "new_rate": 0.07100}},
+  {"model": "brackets.state", "pk": "IDS7", "fields":
+    {"greater_than": 10905, "last_bkt": 10904, "init_tax": 556.14, "new_rate": 0.07400}},
+
+  {"model": "brackets.state", "pk": "ILS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.04950}},
+
+  {"model": "brackets.state", "pk": "INS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.03230}},
+
+  {"model": "brackets.state", "pk": "IAS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00360}},
+  {"model": "brackets.state", "pk": "IAS2", "fields":
+    {"greater_than": 1573, "last_bkt": 1572, "init_tax": 5.66, "new_rate": 0.00720}},
+  {"model": "brackets.state", "pk": "IAS3", "fields":
+    {"greater_than": 3146, "last_bkt": 3145, "init_tax": 16.98, "new_rate": 0.02430}},
+  {"model": "brackets.state", "pk": "IAS4", "fields":
+    {"greater_than": 6292, "last_bkt": 6291, "init_tax": 93.43, "new_rate": 0.04500}},
+  {"model": "brackets.state", "pk": "IAS5", "fields":
+    {"greater_than": 14157, "last_bkt": 14156, "init_tax": 447.36, "new_rate": 0.06120}},
+  {"model": "brackets.state", "pk": "IAS6", "fields":
+    {"greater_than": 23595, "last_bkt": 23594, "init_tax": 1024.96, "new_rate": 0.06480}},
+  {"model": "brackets.state", "pk": "IAS7", "fields":
+    {"greater_than": 31460, "last_bkt": 31459, "init_tax": 1534.62, "new_rate": 0.06800}},
+  {"model": "brackets.state", "pk": "IAS8", "fields":
+    {"greater_than": 47190, "last_bkt": 47189, "init_tax": 2604.26, "new_rate": 0.07920}},
+  {"model": "brackets.state", "pk": "IAS9", "fields":
+    {"greater_than": 70785, "last_bkt": 70784, "init_tax": 4472.98, "new_rate": 0.08980}},
+
+  {"model": "brackets.state", "pk": "KSS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.02900}},
+  {"model": "brackets.state", "pk": "KSS2", "fields":
+    {"greater_than": 15000, "last_bkt": 14999, "init_tax": 434.97, "new_rate": 0.04900}},
+  {"model": "brackets.state", "pk": "KSS3", "fields":
+    {"greater_than": 30000, "last_bkt": 29999, "init_tax": 1169.97, "new_rate": 0.05200}},
+
+  {"model": "brackets.state", "pk": "KYS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.02000}},
+  {"model": "brackets.state", "pk": "KYS2", "fields":
+    {"greater_than": 3000, "last_bkt": 2999, "init_tax": 59.98, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "KYS3", "fields":
+    {"greater_than": 4000, "last_bkt": 3999, "init_tax": 89.98, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "KYS4", "fields":
+    {"greater_than": 5000, "last_bkt": 4999, "init_tax": 129.98, "new_rate": 0.05000}},
+  {"model": "brackets.state", "pk": "KYS5", "fields":
+    {"greater_than": 8000, "last_bkt": 7999, "init_tax": 279.98, "new_rate": 0.05800}},
+  {"model": "brackets.state", "pk": "KYS6", "fields":
+    {"greater_than": 75000, "last_bkt": 74999, "init_tax": 4165.98, "new_rate": 0.06000}},
+
+  {"model": "brackets.state", "pk": "LAS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.02000}},
+  {"model": "brackets.state", "pk": "LAS2", "fields":
+    {"greater_than": 12500, "last_bkt": 12499, "init_tax": 249.98, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "LAS3", "fields":
+    {"greater_than": 50000, "last_bkt": 49999, "init_tax": 1749.98, "new_rate": 0.06000}},
+
+  {"model": "brackets.state", "pk": "MES1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.05800}},
+  {"model": "brackets.state", "pk": "MES2", "fields":
+    {"greater_than": 21050, "last_bkt": 21049, "init_tax": 1220.84, "new_rate": 0.06750}},
+  {"model": "brackets.state", "pk": "MES3", "fields":
+    {"greater_than": 50000, "last_bkt": 49999, "init_tax": 3174.97, "new_rate": 0.07150}},
+
+  {"model": "brackets.state", "pk": "MDS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.02000}},
+  {"model": "brackets.state", "pk": "MDS2", "fields":
+    {"greater_than": 1000, "last_bkt": 999, "init_tax": 19.98, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "MDS3", "fields":
+    {"greater_than": 2000, "last_bkt": 1999, "init_tax": 49.98, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "MDS4", "fields":
+    {"greater_than": 3000, "last_bkt": 2999, "init_tax": 89.98, "new_rate": 0.04750}},
+  {"model": "brackets.state", "pk": "MDS5", "fields":
+    {"greater_than": 100000, "last_bkt": 99999, "init_tax": 4697.48, "new_rate": 0.05000}},
+  {"model": "brackets.state", "pk": "MDS6", "fields":
+    {"greater_than": 125000, "last_bkt": 124999, "init_tax": 5947.48, "new_rate": 0.05250}},
+  {"model": "brackets.state", "pk": "MDS7", "fields":
+    {"greater_than": 150000, "last_bkt": 149999, "init_tax": 7259.98, "new_rate": 0.05500}},
+  {"model": "brackets.state", "pk": "MDS8", "fields":
+    {"greater_than": 250000, "last_bkt": 249999, "init_tax": 12759.98, "new_rate": 0.05750}},
+
+  {"model": "brackets.state", "pk": "MAS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.05100}},
+
+  {"model": "brackets.state", "pk": "MIS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.04250}},
+
+  {"model": "brackets.state", "pk": "MNS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.05350}},
+  {"model": "brackets.state", "pk": "MNS2", "fields":
+    {"greater_than": 25390, "last_bkt": 25389, "init_tax": 1358.31, "new_rate": 0.07050}},
+  {"model": "brackets.state", "pk": "MNS3", "fields":
+    {"greater_than": 83400, "last_bkt": 83399, "init_tax": 5448.02, "new_rate": 0.07850}},
+  {"model": "brackets.state", "pk": "MNS4", "fields":
+    {"greater_than": 156911, "last_bkt": 156910, "init_tax": 11218.63, "new_rate": 0.09850}},
+
+  {"model": "brackets.state", "pk": "HIS12", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "HIS12", "fields":
+    {"greater_than": 5000, "last_bkt": 4999, "init_tax": 149.97, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "HIS12", "fields":
+    {"greater_than": 10000, "last_bkt": 9999, "init_tax": 349.97, "new_rate": 0.05000}},
+
+  {"model": "brackets.state", "pk": "MOS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.01500}},
+  {"model": "brackets.state", "pk": "MOS2", "fields":
+    {"greater_than": 1008, "last_bkt": 1007, "init_tax": 15.11, "new_rate": 0.02000}},
+  {"model": "brackets.state", "pk": "MOS3", "fields":
+    {"greater_than": 2016, "last_bkt": 2015, "init_tax": 35.27, "new_rate": 0.02500}},
+  {"model": "brackets.state", "pk": "MOS4", "fields":
+    {"greater_than": 3024, "last_bkt": 3023, "init_tax": 60.47, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "MOS5", "fields":
+    {"greater_than": 4032, "last_bkt": 4031, "init_tax": 90.71, "new_rate": 0.03500}},
+  {"model": "brackets.state", "pk": "MOS6", "fields":
+    {"greater_than": 5040, "last_bkt": 5039, "init_tax": 125.99, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "MOS7", "fields":
+    {"greater_than": 6048, "last_bkt": 6047, "init_tax": 166.31, "new_rate": 0.04500}},
+  {"model": "brackets.state", "pk": "MOS8", "fields":
+    {"greater_than": 7056, "last_bkt": 7055, "init_tax": 211.67, "new_rate": 0.05000}},
+  {"model": "brackets.state", "pk": "MOS9", "fields":
+    {"greater_than": 8064, "last_bkt": 8063, "init_tax": 262.07, "new_rate": 0.05500}},
+  {"model": "brackets.state", "pk": "MOS10", "fields":
+    {"greater_than": 9072, "last_bkt": 9071, "init_tax": 317.51, "new_rate": 0.06000}},
+
+  {"model": "brackets.state", "pk": "MTS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.01000}},
+  {"model": "brackets.state", "pk": "MTS2", "fields":
+    {"greater_than": 2900, "last_bkt": 2899, "init_tax": 28.99, "new_rate": 0.02000}},
+  {"model": "brackets.state", "pk": "MTS3", "fields":
+    {"greater_than": 5200, "last_bkt": 5199, "init_tax": 74.99, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "MTS4", "fields":
+    {"greater_than": 7900, "last_bkt": 7899, "init_tax": 155.99, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "MTS5", "fields":
+    {"greater_than": 10600, "last_bkt": 10599, "init_tax": 263.99, "new_rate": 0.05000}},
+  {"model": "brackets.state", "pk": "MTS6", "fields":
+    {"greater_than": 13600, "last_bkt": 13599, "init_tax": 413.99, "new_rate": 0.06000}},
+  {"model": "brackets.state", "pk": "MTS7", "fields":
+    {"greater_than": 17600, "last_bkt": 17599, "init_tax": 653.99, "new_rate": 0.06900}},
+
+  {"model": "brackets.state", "pk": "NES1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.02460}},
+  {"model": "brackets.state", "pk": "NES2", "fields":
+    {"greater_than": 3090, "last_bkt": 3089, "init_tax": 75.99, "new_rate": 0.03510}},
+  {"model": "brackets.state", "pk": "NES3", "fields":
+    {"greater_than": 18510, "last_bkt": 18509, "init_tax": 617.23, "new_rate": 0.05010}},
+  {"model": "brackets.state", "pk": "NES4", "fields":
+    {"greater_than": 29830, "last_bkt": 29829, "init_tax": 1184.36, "new_rate": 0.06840}},
+
+  {"model": "brackets.state", "pk": "NVS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00000}},
+
+  {"model": "brackets.state", "pk": "NHS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.05000}},
+
+  {"model": "brackets.state", "pk": "NJS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.01400}},
+  {"model": "brackets.state", "pk": "NJS2", "fields":
+    {"greater_than": 20000, "last_bkt": 19999, "init_tax": 279.99, "new_rate": 0.01750}},
+  {"model": "brackets.state", "pk": "NJS3", "fields":
+    {"greater_than": 35000, "last_bkt": 34999, "init_tax": 542.49, "new_rate": 0.03500}},
+  {"model": "brackets.state", "pk": "NJS4", "fields":
+    {"greater_than": 40000, "last_bkt": 39999, "init_tax": 717.49, "new_rate": 0.05525}},
+  {"model": "brackets.state", "pk": "NJS5", "fields":
+    {"greater_than": 75000, "last_bkt": 74999, "init_tax": 2651.24, "new_rate": 0.06370}},
+  {"model": "brackets.state", "pk": "NJS6", "fields":
+    {"greater_than": 500000, "last_bkt": 499999, "init_tax": 29723.74, "new_rate": 0.08970}},
+
+  {"model": "brackets.state", "pk": "NMS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.01700}},
+  {"model": "brackets.state", "pk": "NMS2", "fields":
+    {"greater_than": 5500, "last_bkt": 5499, "init_tax": 93.48, "new_rate": 0.03200}},
+  {"model": "brackets.state", "pk": "NMS3", "fields":
+    {"greater_than": 11000, "last_bkt": 10999, "init_tax": 269.48, "new_rate": 0.04700}},
+  {"model": "brackets.state", "pk": "NMS4", "fields":
+    {"greater_than": 16000, "last_bkt": 15999, "init_tax": 504.48, "new_rate": 0.04900}},
+
+  {"model": "brackets.state", "pk": "NYS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "NYS2", "fields":
+    {"greater_than": 8500, "last_bkt": 8499, "init_tax": 339.96, "new_rate": 0.04500}},
+  {"model": "brackets.state", "pk": "NYS3", "fields":
+    {"greater_than": 11700, "last_bkt": 11699, "init_tax": 483.96, "new_rate": 0.05250}},
+  {"model": "brackets.state", "pk": "NYS4", "fields":
+    {"greater_than": 13900, "last_bkt": 13899, "init_tax": 599.46, "new_rate": 0.05900}},
+  {"model": "brackets.state", "pk": "NYS5", "fields":
+    {"greater_than": 21400, "last_bkt": 21399, "init_tax": 1041.96, "new_rate": 0.06450}},
+  {"model": "brackets.state", "pk": "NYS6", "fields":
+    {"greater_than": 80650, "last_bkt": 80649, "init_tax": 4863.59, "new_rate": 0.06650}},
+  {"model": "brackets.state", "pk": "NYS7", "fields":
+    {"greater_than": 215400, "last_bkt": 215399, "init_tax": 13824.46, "new_rate": 0.06850}},
+  {"model": "brackets.state", "pk": "NYS8", "fields":
+    {"greater_than": 1077550, "last_bkt": 1077549, "init_tax": 72881.74, "new_rate": 0.08820}},
+
+  {"model": "brackets.state", "pk": "NCS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.05499}},
+
+  {"model": "brackets.state", "pk": "NDS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.01100}},
+  {"model": "brackets.state", "pk": "NDS2", "fields":
+    {"greater_than": 37950, "last_bkt": 37949, "init_tax": 417.44, "new_rate": 0.02040}},
+  {"model": "brackets.state", "pk": "NDS3", "fields":
+    {"greater_than": 91900, "last_bkt": 91899, "init_tax": 1518.02, "new_rate": 0.02270}},
+  {"model": "brackets.state", "pk": "NDS4", "fields":
+    {"greater_than": 191650, "last_bkt": 191649, "init_tax": 3782.34, "new_rate": 0.02640}},
+  {"model": "brackets.state", "pk": "NDS5", "fields":
+    {"greater_than": 416700, "last_bkt": 416699, "init_tax": 9723.66, "new_rate": 0.02900}},
+
+  {"model": "brackets.state", "pk": "OHS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00495}},
+  {"model": "brackets.state", "pk": "OHS2", "fields":
+    {"greater_than": 5250, "last_bkt": 5249, "init_tax": 25.98, "new_rate": 0.00990}},
+  {"model": "brackets.state", "pk": "OHS3", "fields":
+    {"greater_than": 10500, "last_bkt": 10499, "init_tax": 77.96, "new_rate": 0.01980}},
+  {"model": "brackets.state", "pk": "OHS4", "fields":
+    {"greater_than": 15800, "last_bkt": 15799, "init_tax": 182.90, "new_rate": 0.02476}},
+  {"model": "brackets.state", "pk": "OHS5", "fields":
+    {"greater_than": 21100, "last_bkt": 21099, "init_tax": 314.13, "new_rate": 0.02969}},
+  {"model": "brackets.state", "pk": "OHS6", "fields":
+    {"greater_than": 42100, "last_bkt": 42099, "init_tax": 937.62, "new_rate": 0.03465}},
+  {"model": "brackets.state", "pk": "OHS7", "fields":
+    {"greater_than": 84200, "last_bkt": 84199, "init_tax": 2396.38, "new_rate": 0.03960}},
+  {"model": "brackets.state", "pk": "OHS8", "fields":
+    {"greater_than": 105300, "last_bkt": 105299, "init_tax": 3231.94, "new_rate": 0.04597}},
+  {"model": "brackets.state", "pk": "OHS9", "fields":
+    {"greater_than": 210600, "last_bkt": 210599, "init_tax": 8072.58, "new_rate": 0.04997}},
+
+  {"model": "brackets.state", "pk": "OKS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00500}},
+  {"model": "brackets.state", "pk": "OKS2", "fields":
+    {"greater_than": 1000, "last_bkt": 999, "init_tax": 5.00, "new_rate": 0.01000}},
+  {"model": "brackets.state", "pk": "OKS3", "fields":
+    {"greater_than": 2500, "last_bkt": 2499, "init_tax": 20.00, "new_rate": 0.02000}},
+  {"model": "brackets.state", "pk": "OKS4", "fields":
+    {"greater_than": 3750, "last_bkt": 3749, "init_tax": 45.00, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "OKS5", "fields":
+    {"greater_than": 4900, "last_bkt": 4899, "init_tax": 79.50, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "OKS6", "fields":
+    {"greater_than": 7200, "last_bkt": 7199, "init_tax": 171.50, "new_rate": 0.05000}},
+
+  {"model": "brackets.state", "pk": "ORS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.05000}},
+  {"model": "brackets.state", "pk": "ORS2", "fields":
+    {"greater_than": 3350, "last_bkt": 3349, "init_tax": 167.45, "new_rate": 0.07000}},
+  {"model": "brackets.state", "pk": "ORS3", "fields":
+    {"greater_than": 8450, "last_bkt": 8449, "init_tax": 524.45, "new_rate": 0.09000}},
+  {"model": "brackets.state", "pk": "ORS4", "fields":
+    {"greater_than": 125000, "last_bkt": 124999, "init_tax": 11013.95, "new_rate": 0.09900}},
+
+  {"model": "brackets.state", "pk": "PAS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.03070}},
+
+  {"model": "brackets.state", "pk": "RIS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.03750}},
+  {"model": "brackets.state", "pk": "RIS2", "fields":
+    {"greater_than": 61300, "last_bkt": 61299, "init_tax": 2298.71, "new_rate": 0.04750}},
+  {"model": "brackets.state", "pk": "RIS3", "fields":
+    {"greater_than": 139400, "last_bkt": 139399, "init_tax": 6008.46, "new_rate": 0.05990}},
+
+  {"model": "brackets.state", "pk": "SCS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00000}},
+  {"model": "brackets.state", "pk": "SCS2", "fields":
+    {"greater_than": 2930, "last_bkt": 2929, "init_tax": 0.00, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "SCS3", "fields":
+    {"greater_than": 5860, "last_bkt": 5859, "init_tax": 87.90, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "SCS4", "fields":
+    {"greater_than": 8790, "last_bkt": 8789, "init_tax": 205.10, "new_rate": 0.05000}},
+  {"model": "brackets.state", "pk": "SCS5", "fields":
+    {"greater_than": 11720, "last_bkt": 11719, "init_tax": 351.60, "new_rate": 0.06000}},
+  {"model": "brackets.state", "pk": "SCS6", "fields":
+    {"greater_than": 14650, "last_bkt": 14649, "init_tax": 527.40, "new_rate": 0.07000}},
+
+  {"model": "brackets.state", "pk": "SDS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00000}},
+
+  {"model": "brackets.state", "pk": "TNS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.05000}},
+
+  {"model": "brackets.state", "pk": "TXS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00000}},
+
+  {"model": "brackets.state", "pk": "UTS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.05000}},
+
+  {"model": "brackets.state", "pk": "VTS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.03550}},
+  {"model": "brackets.state", "pk": "VTS2", "fields":
+    {"greater_than": 37950, "last_bkt": 37949, "init_tax": 1347.19, "new_rate": 0.06800}},
+  {"model": "brackets.state", "pk": "VTS3", "fields":
+    {"greater_than": 91900, "last_bkt": 91899, "init_tax": 5015.79, "new_rate": 0.07800}},
+  {"model": "brackets.state", "pk": "VTS4", "fields":
+    {"greater_than": 191650, "last_bkt": 191649, "init_tax": 12796.29, "new_rate": 0.08800}},
+  {"model": "brackets.state", "pk": "VTS5", "fields":
+    {"greater_than": 416700, "last_bkt": 416699, "init_tax": 32600.69, "new_rate": 0.08950}},
+
+  {"model": "brackets.state", "pk": "VAS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.02000}},
+  {"model": "brackets.state", "pk": "VAS2", "fields":
+    {"greater_than": 3000, "last_bkt": 2999, "init_tax": 59.98, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "VAS3", "fields":
+    {"greater_than": 5000, "last_bkt": 4999, "init_tax": 119.98, "new_rate": 0.05000}},
+  {"model": "brackets.state", "pk": "VAS4", "fields":
+    {"greater_than": 17000, "last_bkt": 16999, "init_tax": 719.98, "new_rate": 0.05750}},
+
+  {"model": "brackets.state", "pk": "WAS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00000}},
+
+  {"model": "brackets.state", "pk": "WVS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "WVS2", "fields":
+    {"greater_than": 10000, "last_bkt": 9999, "init_tax": 299.97, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "WVS3", "fields":
+    {"greater_than": 25000, "last_bkt": 24999, "init_tax": 899.97, "new_rate": 0.04500}},
+  {"model": "brackets.state", "pk": "WVS4", "fields":
+    {"greater_than": 40000, "last_bkt": 39999, "init_tax": 1574.97, "new_rate": 0.06000}},
+  {"model": "brackets.state", "pk": "WVS5", "fields":
+    {"greater_than": 60000, "last_bkt": 59999, "init_tax": 2774.97, "new_rate": 0.06500}},
+
+  {"model": "brackets.state", "pk": "WIS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "WIS2", "fields":
+    {"greater_than": 11230, "last_bkt": 11229, "init_tax": 449.16, "new_rate": 0.05840}},
+  {"model": "brackets.state", "pk": "WIS3", "fields":
+    {"greater_than": 22470, "last_bkt": 22469, "init_tax": 1105.58, "new_rate": 0.06270}},
+  {"model": "brackets.state", "pk": "WIS4", "fields":
+    {"greater_than": 247350, "last_bkt": 247349, "init_tax": 15205.55, "new_rate": 0.07650}},
+
+  {"model": "brackets.state", "pk": "WYS1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00000}},
+
+  {"model": "brackets.federal", "pk": "ALM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.02000}},
+  {"model": "brackets.state", "pk": "ALM2", "fields":
+    {"greater_than": 1000, "last_bkt": 999, "init_tax": 19.98, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "ALM3", "fields":
+    {"greater_than": 6000, "last_bkt": 5999, "init_tax": 219.98, "new_rate": 0.05000}},
+
+  {"model": "brackets.state", "pk": "AKM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00000}},
+
+  {"model": "brackets.state", "pk": "AZM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.02590}},
+  {"model": "brackets.state", "pk": "AZM2", "fields":
+    {"greater_than": 20357, "last_bkt": 20256, "init_tax": 524.63, "new_rate": 0.02880}},
+  {"model": "brackets.state", "pk": "AZM3", "fields":
+    {"greater_than": 50890, "last_bkt": 50889, "init_tax": 1406.86, "new_rate": 0.03360}},
+  {"model": "brackets.state", "pk": "AZM4", "fields":
+    {"greater_than": 101779, "last_bkt": 101778, "init_tax": 3116.73, "new_rate": 0.04240}},
+  {"model": "brackets.state", "pk": "AZM5", "fields":
+    {"greater_than": 305336, "last_bkt": 305335, "init_tax": 11747.55, "new_rate": 0.04540}},
+
+  {"model": "brackets.state", "pk": "ARM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00900}},
+  {"model": "brackets.state", "pk": "ARM2", "fields":
+    {"greater_than": 4299, "last_bkt": 4298, "init_tax": 0.00, "new_rate": 0.02500}},
+  {"model": "brackets.state", "pk": "ARM3", "fields":
+    {"greater_than": 8500, "last_bkt": 8499, "init_tax": 212.48, "new_rate": 0.03500}},
+  {"model": "brackets.state", "pk": "ARM4", "fields":
+    {"greater_than": 12699, "last_bkt": 12698, "init_tax": 359.44, "new_rate": 0.04500}},
+  {"model": "brackets.state", "pk": "ARM5", "fields":
+    {"greater_than": 21199, "last_bkt": 21198, "init_tax": 741.94, "new_rate": 0.06000}},
+  {"model": "brackets.state", "pk": "ARM6", "fields":
+    {"greater_than": 35100, "last_bkt": 35099, "init_tax": 1576.00, "new_rate": 0.06900}},
+
+  {"model": "brackets.state", "pk": "CAM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.01000}},
+  {"model": "brackets.state", "pk": "CAM2", "fields":
+    {"greater_than": 16030, "last_bkt": 16029, "init_tax": 160.29, "new_rate": 0.02000}},
+  {"model": "brackets.state", "pk": "CAM3", "fields":
+    {"greater_than": 38002, "last_bkt": 38001, "init_tax": 599.73, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "CAM4", "fields":
+    {"greater_than": 59978, "last_bkt": 59977, "init_tax": 1478.77, "new_rate": 0.06000}},
+  {"model": "brackets.state", "pk": "CAM5", "fields":
+    {"greater_than": 83258, "last_bkt": 83257, "init_tax": 2875.57, "new_rate": 0.08000}},
+  {"model": "brackets.state", "pk": "CAM6", "fields":
+    {"greater_than": 105224, "last_bkt": 105223, "init_tax": 4632.85, "new_rate": 0.09300}},
+  {"model": "brackets.state", "pk": "CAM7", "fields":
+    {"greater_than": 537500, "last_bkt": 537499, "init_tax": 44834.52, "new_rate": 0.10300}},
+  {"model": "brackets.state", "pk": "CAM8", "fields":
+    {"greater_than": 644998, "last_bkt": 644997, "init_tax": 55906.81, "new_rate": 0.11300}},
+  {"model": "brackets.state", "pk": "CAM9", "fields":
+    {"greater_than": 1000000, "last_bkt": 999999, "init_tax": 96022.04, "new_rate": 0.12300}},
+  {"model": "brackets.state", "pk": "CAM10", "fields":
+    {"greater_than": 1074996, "last_bkt": 1074995, "init_tax": 105246.55, "new_rate": 0.13300}},
+
+  {"model": "brackets.state", "pk": "COM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0, "new_rate": 0.04630}},
+
+  {"model": "brackets.state", "pk": "CTM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "CTM2", "fields":
+    {"greater_than": 20000, "last_bkt": 19999, "init_tax": 599.97, "new_rate": 0.05000}},
+  {"model": "brackets.state", "pk": "CTM3", "fields":
+    {"greater_than": 100000, "last_bkt": 99999, "init_tax": 4599.97, "new_rate": 0.05500}},
+  {"model": "brackets.state", "pk": "CTM4", "fields":
+    {"greater_than": 200000, "last_bkt": 199999, "init_tax": 10099.97, "new_rate": 0.06000}},
+  {"model": "brackets.state", "pk": "CTM5", "fields":
+    {"greater_than": 400000, "last_bkt": 399999, "init_tax": 22099.97, "new_rate": 0.06500}},
+  {"model": "brackets.state", "pk": "CTM6", "fields":
+    {"greater_than": 500000, "last_bkt": 499999, "init_tax": 28599.97, "new_rate": 0.06900}},
+  {"model": "brackets.state", "pk": "CTM7", "fields":
+    {"greater_than": 1000000, "last_bkt": 999999, "init_tax": 63099.97, "new_rate": 0.06990}},
+
+  {"model": "brackets.state", "pk": "DEM1", "fields":
+    {"greater_than": 2000, "last_bkt": 1999, "init_tax": 0.00, "new_rate": 0.02200}},
+  {"model": "brackets.state", "pk": "DEM2", "fields":
+    {"greater_than": 5000, "last_bkt": 4999, "init_tax": 66.00, "new_rate": 0.03900}},
+  {"model": "brackets.state", "pk": "DEM3", "fields":
+    {"greater_than": 10000, "last_bkt": 9999, "init_tax": 261.00, "new_rate": 0.04800}},
+  {"model": "brackets.state", "pk": "DEM4", "fields":
+    {"greater_than": 20000, "last_bkt": 19999, "init_tax": 741.00, "new_rate": 0.05200}},
+  {"model": "brackets.state", "pk": "DEM5", "fields":
+    {"greater_than": 25000, "last_bkt": 24999, "init_tax": 1001.00, "new_rate": 0.05550}},
+  {"model": "brackets.state", "pk": "DEM16", "fields":
+    {"greater_than": 60000, "last_bkt": 59999, "init_tax": 2943.50, "new_rate": 0.06600}},
+
+  {"model": "brackets.state", "pk": "FLM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00000}},
+
+  {"model": "brackets.state", "pk": "GAM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.01000}},
+  {"model": "brackets.state", "pk": "GAM2", "fields":
+    {"greater_than": 1000, "last_bkt": 999, "init_tax": 9.99, "new_rate": 0.02000}},
+  {"model": "brackets.state", "pk": "GAM3", "fields":
+    {"greater_than": 3000, "last_bkt": 2999, "init_tax": 49.99, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "GAM4", "fields":
+    {"greater_than": 5000, "last_bkt": 4999, "init_tax": 109.99, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "GAM5", "fields":
+    {"greater_than": 7000, "last_bkt": 6999, "init_tax": 189.99, "new_rate": 0.05000}},
+  {"model": "brackets.state", "pk": "GAM6", "fields":
+    {"greater_than": 10000, "last_bkt": 9999, "init_tax": 339.99, "new_rate": 0.06000}},
+
+  {"model": "brackets.state", "pk": "HIM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.01400}},
+  {"model": "brackets.state", "pk": "HIM2", "fields":
+    {"greater_than": 4800, "last_bkt": 4799, "init_tax": 67.19, "new_rate": 0.03200}},
+  {"model": "brackets.state", "pk": "HIM3", "fields":
+    {"greater_than": 9600, "last_bkt": 9599, "init_tax": 220.79, "new_rate": 0.05500}},
+  {"model": "brackets.state", "pk": "HIM4", "fields":
+    {"greater_than": 19200, "last_bkt": 19199, "init_tax": 748.79, "new_rate": 0.06400}},
+  {"model": "brackets.state", "pk": "HIM5", "fields":
+    {"greater_than": 28800, "last_bkt": 28799, "init_tax": 1363.19, "new_rate": 0.06800}},
+  {"model": "brackets.state", "pk": "HIM6", "fields":
+    {"greater_than": 38400, "last_bkt": 38399, "init_tax": 2015.99, "new_rate": 0.07200}},
+  {"model": "brackets.state", "pk": "HIM7", "fields":
+    {"greater_than": 48000, "last_bkt": 47999, "init_tax": 2707.19, "new_rate": 0.07600}},
+  {"model": "brackets.state", "pk": "HIM8", "fields":
+    {"greater_than": 72000, "last_bkt": 71999, "init_tax": 4531.19, "new_rate": 0.07900}},
+  {"model": "brackets.state", "pk": "HIM9", "fields":
+    {"greater_than": 96000, "last_bkt": 95999, "init_tax": 6427.19, "new_rate": 0.08250}},
+  {"model": "brackets.state", "pk": "HIM10", "fields":
+    {"greater_than": 300000, "last_bkt": 299999, "init_tax": 23257.19, "new_rate": 0.09000}},
+  {"model": "brackets.state", "pk": "HIM11", "fields":
+    {"greater_than": 350000, "last_bkt": 349999, "init_tax": 27757.19, "new_rate": 0.10000}},
+  {"model": "brackets.state", "pk": "HIM12", "fields":
+    {"greater_than": 400000, "last_bkt": 399999, "init_tax": 32757.19, "new_rate": 0.11000}},
+
+  {"model": "brackets.state", "pk": "IDM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.01600}},
+  {"model": "brackets.state", "pk": "IDM2", "fields":
+    {"greater_than": 2908, "last_bkt": 2907, "init_tax": 46.51, "new_rate": 0.03600}},
+  {"model": "brackets.state", "pk": "IDM3", "fields":
+    {"greater_than": 5816, "last_bkt": 5815, "init_tax": 151.20, "new_rate": 0.04100}},
+  {"model": "brackets.state", "pk": "IDM4", "fields":
+    {"greater_than": 8724, "last_bkt": 8723, "init_tax": 270.43, "new_rate": 0.05100}},
+  {"model": "brackets.state", "pk": "IDM5", "fields":
+    {"greater_than": 11632, "last_bkt": 11631, "init_tax": 418.74, "new_rate": 0.06100}},
+  {"model": "brackets.state", "pk": "IDM6", "fields":
+    {"greater_than": 14540, "last_bkt": 14539, "init_tax": 596.12, "new_rate": 0.07100}},
+  {"model": "brackets.state", "pk": "IDM7", "fields":
+    {"greater_than": 21810, "last_bkt": 21809, "init_tax": 1112.29, "new_rate": 0.07400}},
+
+  {"model": "brackets.state", "pk": "ILM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.04950}},
+
+  {"model": "brackets.state", "pk": "INM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.02320}},
+
+  {"model": "brackets.state", "pk": "IAM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00360}},
+  {"model": "brackets.state", "pk": "IAM2", "fields":
+    {"greater_than": 1573, "last_bkt": 1572, "init_tax": 5.66, "new_rate": 0.00720}},
+  {"model": "brackets.state", "pk": "IAM3", "fields":
+    {"greater_than": 3146, "last_bkt": 3145, "init_tax": 16.98, "new_rate": 0.02430}},
+  {"model": "brackets.state", "pk": "IAM4", "fields":
+    {"greater_than": 6292, "last_bkt": 6291, "init_tax": 93.43, "new_rate": 0.04500}},
+  {"model": "brackets.state", "pk": "IAM5", "fields":
+    {"greater_than": 14157, "last_bkt": 14156, "init_tax": 447.36, "new_rate": 0.06120}},
+  {"model": "brackets.state", "pk": "IAM6", "fields":
+    {"greater_than": 23595, "last_bkt": 23594, "init_tax": 1024.96, "new_rate": 0.06480}},
+  {"model": "brackets.state", "pk": "IAM7", "fields":
+    {"greater_than": 31460, "last_bkt": 31459, "init_tax": 1534.62, "new_rate": 0.06800}},
+  {"model": "brackets.state", "pk": "IAM8", "fields":
+    {"greater_than": 47190, "last_bkt": 47189, "init_tax": 2604.26, "new_rate": 0.07920}},
+  {"model": "brackets.state", "pk": "IAM9", "fields":
+    {"greater_than": 70785, "last_bkt": 70784, "init_tax": 4472.98, "new_rate": 0.08980}},
+
+  {"model": "brackets.state", "pk": "KSM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.02900}},
+  {"model": "brackets.state", "pk": "KSM2", "fields":
+    {"greater_than": 30000, "last_bkt": 29999, "init_tax": 869.97, "new_rate": 0.04900}},
+  {"model": "brackets.state", "pk": "KSM3", "fields":
+    {"greater_than": 60000, "last_bkt": 59999, "init_tax": 2339.97, "new_rate": 0.05200}},
+
+  {"model": "brackets.state", "pk": "KYM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.02000}},
+  {"model": "brackets.state", "pk": "KYM2", "fields":
+    {"greater_than": 3000, "last_bkt": 2999, "init_tax": 59.98, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "KYM3", "fields":
+    {"greater_than": 4000, "last_bkt": 3999, "init_tax": 89.98, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "KYM4", "fields":
+    {"greater_than": 5000, "last_bkt": 4999, "init_tax": 129.98, "new_rate": 0.05000}},
+  {"model": "brackets.state", "pk": "KYM5", "fields":
+    {"greater_than": 8000, "last_bkt": 7999, "init_tax": 279.98, "new_rate": 0.05800}},
+  {"model": "brackets.state", "pk": "KYM6", "fields":
+    {"greater_than": 75000, "last_bkt": 74999, "init_tax": 4165.98, "new_rate": 0.06000}},
+
+  {"model": "brackets.state", "pk": "LAM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.02000}},
+  {"model": "brackets.state", "pk": "LAM2", "fields":
+    {"greater_than": 25000, "last_bkt": 24999, "init_tax": 499.98, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "LAM3", "fields":
+    {"greater_than": 100000, "last_bkt": 99999, "init_tax": 3499.98, "new_rate": 0.06000}},
+
+  {"model": "brackets.state", "pk": "MEM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.05800}},
+  {"model": "brackets.state", "pk": "MEM2", "fields":
+    {"greater_than": 42099, "last_bkt": 42098, "init_tax": 2441.68, "new_rate": 0.06750}},
+  {"model": "brackets.state", "pk": "MEM3", "fields":
+    {"greater_than": 74999, "last_bkt": 74998, "init_tax": 4662.43, "new_rate": 0.07150}},
+
+  {"model": "brackets.state", "pk": "MDM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.02000}},
+  {"model": "brackets.state", "pk": "MDM2", "fields":
+    {"greater_than": 1000, "last_bkt": 999, "init_tax": 19.98, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "MDM3", "fields":
+    {"greater_than": 2000, "last_bkt": 1999, "init_tax": 49.98, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "MDM4", "fields":
+    {"greater_than": 3000, "last_bkt": 2999, "init_tax": 89.98, "new_rate": 0.04750}},
+  {"model": "brackets.state", "pk": "MDM5", "fields":
+    {"greater_than": 150000, "last_bkt": 149999, "init_tax": 7072.48, "new_rate": 0.05000}},
+  {"model": "brackets.state", "pk": "MDM6", "fields":
+    {"greater_than": 175000, "last_bkt": 174999, "init_tax": 8322.48, "new_rate": 0.05250}},
+  {"model": "brackets.state", "pk": "MDM7", "fields":
+    {"greater_than": 225000, "last_bkt": 224999, "init_tax": 10947.48, "new_rate": 0.05500}},
+  {"model": "brackets.state", "pk": "MDM8", "fields":
+    {"greater_than": 300000, "last_bkt": 299999, "init_tax": 15072.48, "new_rate": 0.05750}},
+
+  {"model": "brackets.state", "pk": "MAM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.05100}},
+
+  {"model": "brackets.state", "pk": "MIM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.04250}},
+
+  {"model": "brackets.state", "pk": "MNM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.05350}},
+  {"model": "brackets.state", "pk": "MNM2", "fields":
+    {"greater_than": 1000, "last_bkt": 999, "init_tax": 53.45, "new_rate": 0.07050}},
+  {"model": "brackets.state", "pk": "MNM3", "fields":
+    {"greater_than": 2000, "last_bkt": 1999, "init_tax": 123.95, "new_rate": 0.07850}},
+  {"model": "brackets.state", "pk": "MNM4", "fields":
+    {"greater_than": 3000, "last_bkt": 2999, "init_tax": 202.45, "new_rate": 0.09850}},
+
+  {"model": "brackets.state", "pk": "MSM1", "fields":
+    {"greater_than": 150000, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "MSM2", "fields":
+    {"greater_than": 175000, "last_bkt": 174999, "init_tax": 5249.97, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "MSM3", "fields":
+    {"greater_than": 225000, "last_bkt": 224999, "init_tax": 7249.97, "new_rate": 0.05000}},
+
+  {"model": "brackets.state", "pk": "MOM1", "fields":
+    {"greater_than": 300000, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.01500}},
+  {"model": "brackets.state", "pk": "MOM2", "fields":
+    {"greater_than": 1008, "last_bkt": 1007, "init_tax": 15.11, "new_rate": 0.02000}},
+  {"model": "brackets.state", "pk": "MOM3", "fields":
+    {"greater_than": 2016, "last_bkt": 2015, "init_tax": 35.27, "new_rate": 0.02500}},
+  {"model": "brackets.state", "pk": "MOM4", "fields":
+    {"greater_than": 3024, "last_bkt": 3023, "init_tax": 60.47, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "MOM5", "fields":
+    {"greater_than": 4032, "last_bkt": 4031, "init_tax": 90.71, "new_rate": 0.03500}},
+  {"model": "brackets.state", "pk": "MOM6", "fields":
+    {"greater_than": 5040, "last_bkt": 5039, "init_tax": 125.99, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "MOM7", "fields":
+    {"greater_than": 6048, "last_bkt": 6047, "init_tax": 166.31, "new_rate": 0.04500}},
+  {"model": "brackets.state", "pk": "MOM8", "fields":
+    {"greater_than": 7056, "last_bkt": 7055, "init_tax": 211.67, "new_rate": 0.05000}},
+  {"model": "brackets.state", "pk": "MOM9", "fields":
+    {"greater_than": 8064, "last_bkt": 8063, "init_tax": 262.07, "new_rate": 0.05500}},
+  {"model": "brackets.state", "pk": "MOM10", "fields":
+    {"greater_than": 9072, "last_bkt": 9071, "init_tax": 317.51, "new_rate": 0.06000}},
+
+  {"model": "brackets.state", "pk": "MTM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.01000}},
+  {"model": "brackets.state", "pk": "MTM2", "fields":
+    {"greater_than": 2900, "last_bkt": 2899, "init_tax": 28.99, "new_rate": 0.02000}},
+  {"model": "brackets.state", "pk": "MTM3", "fields":
+    {"greater_than": 5200, "last_bkt": 5199, "init_tax": 74.99, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "MTM4", "fields":
+    {"greater_than": 7900, "last_bkt": 7899, "init_tax": 155.99, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "MTM5", "fields":
+    {"greater_than": 10600, "last_bkt": 10599, "init_tax": 263.99, "new_rate": 0.05000}},
+  {"model": "brackets.state", "pk": "MTM6", "fields":
+    {"greater_than": 13600, "last_bkt": 13599, "init_tax": 413.99, "new_rate": 0.06000}},
+  {"model": "brackets.state", "pk": "MTM7", "fields":
+    {"greater_than": 17600, "last_bkt": 17599, "init_tax": 653.99, "new_rate": 0.06900}},
+
+  {"model": "brackets.state", "pk": "NEM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.02460}},
+  {"model": "brackets.state", "pk": "NEM2", "fields":
+    {"greater_than": 6170, "last_bkt": 6169, "init_tax": 151.76, "new_rate": 0.03510}},
+  {"model": "brackets.state", "pk": "NEM3", "fields":
+    {"greater_than": 37030, "last_bkt": 37029, "init_tax": 1234.94, "new_rate": 0.05010}},
+  {"model": "brackets.state", "pk": "NEM4", "fields":
+    {"greater_than": 59660, "last_bkt": 59659, "init_tax": 2368.71, "new_rate": 0.06840}},
+
+  {"model": "brackets.state", "pk": "NVM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00000}},
+
+  {"model": "brackets.state", "pk": "NHM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.05000}},
+
+  {"model": "brackets.state", "pk": "NJM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.01400}},
+  {"model": "brackets.state", "pk": "NJM2", "fields":
+    {"greater_than": 20000, "last_bkt": 19999, "init_tax": 279.99, "new_rate": 0.01750}},
+  {"model": "brackets.state", "pk": "NJM3", "fields":
+    {"greater_than": 50000, "last_bkt": 49999, "init_tax": 804.99, "new_rate": 0.02450}},
+  {"model": "brackets.state", "pk": "NJM4", "fields":
+    {"greater_than": 70000, "last_bkt": 69999, "init_tax": 1294.99, "new_rate": 0.03500}},
+  {"model": "brackets.state", "pk": "NJM5", "fields":
+    {"greater_than": 80000, "last_bkt": 79999, "init_tax": 1644.99, "new_rate": 0.05525}},
+  {"model": "brackets.state", "pk": "NJM6", "fields":
+    {"greater_than": 150000, "last_bkt": 149999, "init_tax": 5512.49, "new_rate": 0.06370}},
+  {"model": "brackets.state", "pk": "NJM7", "fields":
+    {"greater_than": 500000, "last_bkt": 499999, "init_tax": 27807.49, "new_rate": 0.08970}},
+
+  {"model": "brackets.state", "pk": "NMM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.01700}},
+  {"model": "brackets.state", "pk": "NMM2", "fields":
+    {"greater_than": 8000, "last_bkt": 7999, "init_tax": 135.98, "new_rate": 0.03200}},
+  {"model": "brackets.state", "pk": "NMM3", "fields":
+    {"greater_than": 16000, "last_bkt": 15999, "init_tax": 391.98, "new_rate": 0.04700}},
+  {"model": "brackets.state", "pk": "NMM4", "fields":
+    {"greater_than": 24000, "last_bkt": 23999, "init_tax": 767.98, "new_rate": 0.04900}},
+
+  {"model": "brackets.state", "pk": "NYM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "NYM2", "fields":
+    {"greater_than": 17150, "last_bkt": 17149, "init_tax": 685.96, "new_rate": 0.04500}},
+  {"model": "brackets.state", "pk": "NYM3", "fields":
+    {"greater_than": 23600, "last_bkt": 23599, "init_tax": 976.21, "new_rate": 0.05250}},
+  {"model": "brackets.state", "pk": "NYM4", "fields":
+    {"greater_than": 27900, "last_bkt": 27899, "init_tax": 1201.96, "new_rate": 0.05900}},
+  {"model": "brackets.state", "pk": "NYM5", "fields":
+    {"greater_than": 43000, "last_bkt": 42999, "init_tax": 2092.86, "new_rate": 0.06450}},
+  {"model": "brackets.state", "pk": "NYM6", "fields":
+    {"greater_than": 161550, "last_bkt": 161549, "init_tax": 9739.34, "new_rate": 0.06650}},
+  {"model": "brackets.state", "pk": "NYM7", "fields":
+    {"greater_than": 323200, "last_bkt": 323199, "init_tax": 20489.06, "new_rate": 0.06850}},
+  {"model": "brackets.state", "pk": "NYM8", "fields":
+    {"greater_than": 2155350, "last_bkt": 2155349, "init_tax": 145991.34, "new_rate": 0.08820}},
+
+  {"model": "brackets.state", "pk": "NCM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.05499}},
+
+  {"model": "brackets.state", "pk": "NDM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.01100}},
+  {"model": "brackets.state", "pk": "NDM2", "fields":
+    {"greater_than": 63400, "last_bkt": 63399, "init_tax": 697.39, "new_rate": 0.02040}},
+  {"model": "brackets.state", "pk": "NDM3", "fields":
+    {"greater_than": 153100, "last_bkt": 153099, "init_tax": 2527.27, "new_rate": 0.02270}},
+  {"model": "brackets.state", "pk": "NDM4", "fields":
+    {"greater_than": 233350, "last_bkt": 233349, "init_tax": 4348.94, "new_rate": 0.02640}},
+  {"model": "brackets.state", "pk": "NDM5", "fields":
+    {"greater_than": 416700, "last_bkt": 416699, "init_tax": 9189.38, "new_rate": 0.02900}},
+
+  {"model": "brackets.state", "pk": "OHM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00495}},
+  {"model": "brackets.state", "pk": "OHM2", "fields":
+    {"greater_than": 5250, "last_bkt": 5249, "init_tax": 25.98, "new_rate": 0.00990}},
+  {"model": "brackets.state", "pk": "OHM3", "fields":
+    {"greater_than": 10500, "last_bkt": 10499, "init_tax": 77.96, "new_rate": 0.01980}},
+  {"model": "brackets.state", "pk": "OHM4", "fields":
+    {"greater_than": 15800, "last_bkt": 15799, "init_tax": 182.90, "new_rate": 0.02476}},
+  {"model": "brackets.state", "pk": "OHM5", "fields":
+    {"greater_than": 21100, "last_bkt": 21099, "init_tax": 314.13, "new_rate": 0.02969}},
+  {"model": "brackets.state", "pk": "OHM6", "fields":
+    {"greater_than": 42100, "last_bkt": 42099, "init_tax": 937.62, "new_rate": 0.03465}},
+  {"model": "brackets.state", "pk": "OHM7", "fields":
+    {"greater_than": 84200, "last_bkt": 84199, "init_tax": 2396.38, "new_rate": 0.03960}},
+  {"model": "brackets.state", "pk": "OHM8", "fields":
+    {"greater_than": 105300, "last_bkt": 105299, "init_tax": 3231.94, "new_rate": 0.04597}},
+  {"model": "brackets.state", "pk": "OHM9", "fields":
+    {"greater_than": 210600, "last_bkt": 210599, "init_tax": 8072.58, "new_rate": 0.04997}},
+
+  {"model": "brackets.state", "pk": "OKM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00500}},
+  {"model": "brackets.state", "pk": "OKM2", "fields":
+    {"greater_than": 2000, "last_bkt": 1999, "init_tax": 10.00, "new_rate": 0.01000}},
+  {"model": "brackets.state", "pk": "OKM3", "fields":
+    {"greater_than": 5000, "last_bkt": 4999, "init_tax": 40.00, "new_rate": 0.02000}},
+  {"model": "brackets.state", "pk": "OKM4", "fields":
+    {"greater_than": 7500, "last_bkt": 7499, "init_tax": 90.00, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "OKM5", "fields":
+    {"greater_than": 9800, "last_bkt": 9799, "init_tax": 159.00, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "OKM6", "fields":
+    {"greater_than": 12200, "last_bkt": 12199, "init_tax": 255.00, "new_rate": 0.05000}},
+
+  {"model": "brackets.state", "pk": "ORM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.05000}},
+  {"model": "brackets.state", "pk": "ORM2", "fields":
+    {"greater_than": 6700, "last_bkt": 6699, "init_tax": 334.95, "new_rate": 0.07000}},
+  {"model": "brackets.state", "pk": "ORM3", "fields":
+    {"greater_than": 16900, "last_bkt": 16899, "init_tax": 1048.95, "new_rate": 0.09000}},
+  {"model": "brackets.state", "pk": "ORM4", "fields":
+    {"greater_than": 250000, "last_bkt": 249999, "init_tax": 22027.95, "new_rate": 0.09900}},
+
+  {"model": "brackets.state", "pk": "PAM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.03070}},
+
+  {"model": "brackets.state", "pk": "RIM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.03750}},
+  {"model": "brackets.state", "pk": "RIM2", "fields":
+    {"greater_than": 61300, "last_bkt": 61299, "init_tax": 2298.71, "new_rate": 0.04750}},
+  {"model": "brackets.state", "pk": "RIM3", "fields":
+    {"greater_than": 139400, "last_bkt": 139399, "init_tax": 6008.46, "new_rate": 0.05990}},
+
+  {"model": "brackets.state", "pk": "SCM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00000}},
+  {"model": "brackets.state", "pk": "SCM2", "fields":
+    {"greater_than": 2930, "last_bkt": 2929, "init_tax": 0.00, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "SCM3", "fields":
+    {"greater_than": 5860, "last_bkt": 5859, "init_tax": 87.90, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "SCM4", "fields":
+    {"greater_than": 8790, "last_bkt": 8789, "init_tax": 205.10, "new_rate": 0.05000}},
+  {"model": "brackets.state", "pk": "SCM5", "fields":
+    {"greater_than": 11720, "last_bkt": 11719, "init_tax": 351.60, "new_rate": 0.06000}},
+  {"model": "brackets.state", "pk": "SCM6", "fields":
+    {"greater_than": 14650, "last_bkt": 14649, "init_tax": 527.40, "new_rate": 0.07000}},
+
+  {"model": "brackets.state", "pk": "SDM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00000}},
+
+  {"model": "brackets.state", "pk": "TNM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.05000}},
+
+  {"model": "brackets.state", "pk": "TMX1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00000}},
+
+  {"model": "brackets.state", "pk": "UTM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.05000}},
+
+  {"model": "brackets.state", "pk": "VTM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.03550}},
+  {"model": "brackets.state", "pk": "VTM2", "fields":
+    {"greater_than": 63350, "last_bkt": 63349, "init_tax": 2248.89, "new_rate": 0.06800}},
+  {"model": "brackets.state", "pk": "VTM3", "fields":
+    {"greater_than": 153100, "last_bkt": 153099, "init_tax": 8351.89, "new_rate": 0.07800}},
+  {"model": "brackets.state", "pk": "VTM4", "fields":
+    {"greater_than": 233350, "last_bkt": 233349, "init_tax": 14611.39, "new_rate": 0.08800}},
+  {"model": "brackets.state", "pk": "VTM5", "fields":
+    {"greater_than": 416700, "last_bkt": 416699, "init_tax": 30746.19, "new_rate": 0.08950}},
+
+  {"model": "brackets.state", "pk": "VAM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.02000}},
+  {"model": "brackets.state", "pk": "VAM2", "fields":
+    {"greater_than": 3000, "last_bkt": 2999, "init_tax": 59.98, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "VAM3", "fields":
+    {"greater_than": 5000, "last_bkt": 4999, "init_tax": 119.98, "new_rate": 0.05000}},
+  {"model": "brackets.state", "pk": "VAM4", "fields":
+    {"greater_than": 17000, "last_bkt": 16999, "init_tax": 719.98, "new_rate": 0.05750}},
+
+  {"model": "brackets.state", "pk": "WAM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00000}},
+
+  {"model": "brackets.state", "pk": "WVM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.03000}},
+  {"model": "brackets.state", "pk": "WVM2", "fields":
+    {"greater_than": 10000, "last_bkt": 9999, "init_tax": 299.97, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "WVM3", "fields":
+    {"greater_than": 25000, "last_bkt": 24999, "init_tax": 899.97, "new_rate": 0.04500}},
+  {"model": "brackets.state", "pk": "WVM4", "fields":
+    {"greater_than": 40000, "last_bkt": 39999, "init_tax": 1574.97, "new_rate": 0.06000}},
+  {"model": "brackets.state", "pk": "WVM5", "fields":
+    {"greater_than": 60000, "last_bkt": 59999, "init_tax": 2774.97, "new_rate": 0.06500}},
+
+  {"model": "brackets.state", "pk": "WIM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.04000}},
+  {"model": "brackets.state", "pk": "WIM2", "fields":
+    {"greater_than": 14980, "last_bkt": 14979, "init_tax": 599.16, "new_rate": 0.05840}},
+  {"model": "brackets.state", "pk": "WIM3", "fields":
+    {"greater_than": 29960, "last_bkt": 29959, "init_tax": 1473.99, "new_rate": 0.06270}},
+  {"model": "brackets.state", "pk": "WIM4", "fields":
+    {"greater_than": 329810, "last_bkt": 329809, "init_tax": 20274.59, "new_rate": 0.07650}},
+
+  {"model": "brackets.state", "pk": "WYM1", "fields":
+    {"greater_than": 0, "last_bkt": 0, "init_tax": 0.00, "new_rate": 0.00000}}]
