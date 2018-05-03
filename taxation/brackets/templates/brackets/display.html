@@ -1,1 +1,9 @@
 <h1>USER INFO</h1>
+
+{% block content %}
+    <div class="user_info">
+        <h1>{{ user_info.salary }}</h1>
+        <h1>{{ user_info.zip_code }}</h1>
+        <h1>{{ user_info.marital_status }}</h1>
+    </div>
+{% endblock %}
