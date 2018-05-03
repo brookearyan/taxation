@@ -1,4 +1,8 @@
 from django import forms
+from .models import UserInfo
 
-class UserForm(forms.Form):
-    user_zip = forms.CharField(label='zip code: ', max_length=5)
+class New(forms.ModelForm):
+
+    class Meta:
+        model = UserInfo
+        fields = ('zip_code', 'salary', 'marital_status',)

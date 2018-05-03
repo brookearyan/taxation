@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+{% load staticfiles %}
 <html>
   <head>
     <!--Import Google Icon Font-->
@@ -12,7 +12,11 @@
   </head>
 
   <body>
-    <form class="userform" action="index.html" method="post">
+    <header>
+    </header>
+    {% block content %}
+    {% endblock %}
+    <!-- <form class="userform" action="index.html" method="post">
       <label for="{{ user_info.zip_code }}">zip code: </label>
       <input type="text" name="{{ user_info.salary }}" value="{{ current_name }}">
       <label for="{{ user_info.salary }}">annual salary: </label>
@@ -21,8 +25,9 @@
       <input type="text" name="{{ user_info.marital_status }}" value="{{ current_name }}">
       <input type="submit" value="see estimated taxes">
     </form>
-    <!--JavaScript at end of body for optimized loading-->
+    JavaScript at end of body for optimized loading--> -->
     <script type="text/javascript" src="js/materialize.min.js"></script>
   </body>
 </html>
 <!--! figure out how to get thsi materialize to work!!!! -->
+<!-- +++++keep DJANGO BLOCK AS IS SO NEW FORM EXTENDS+++++ -->
