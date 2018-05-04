@@ -24,19 +24,10 @@ def new(request):
             zip_code = form.cleaned_data['zip_code']
             salary = form.cleaned_data['salary']
             marital_status = form.cleaned_data['marital_status']
+            print(zip_code, salary, marital_status)
+
     else:
         form = New()
-        
+
     return render(request, 'brackets/new.html', {'form': form})
-# def new(request):
-#     if request.method == "POST":
-#         form = New(request.POST)
-#         if form.is_valid():
-#             user_info = form.save(commit=False)
-#             user_info.zip_code = request.zip_code
-#             user_info.salary = request.salary
-#             user_info.marital_status = request.marital_status
-#             return redirect('display', pk=user_info.pk)
-#     else:
-#         form = New()
-#     return render(request, 'brackets/new.html', {'form': form})
+# current url path /brackets/new/form... needds to post to /user-info or /##
