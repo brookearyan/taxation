@@ -18,14 +18,25 @@ def display(request, user_info_id):
     return render(request, 'brackets/display.html', {'user_info': user_info})
 
 def new(request):
-    if request.method == "POST":
+    if request.method == 'POST':
         form = New(request.POST)
         if form.is_valid():
-            user_info = form.save(commit=False)
-            user_info.zip_code = request.zip_code
-            user_info.salary = request.salary
-            user_info.marital_status = request.marital_status
-            return redirect('display', pk=user_info.pk)
+            zip_code = form.cleaned_data['zip_code']
+            salary = form.cleaned_data['salary']
+            marital_status = form.cleaned_data['marital_status']
     else:
         form = New()
+        
     return render(request, 'brackets/new.html', {'form': form})
+# def new(request):
+#     if request.method == "POST":
+#         form = New(request.POST)
+#         if form.is_valid():
+#             user_info = form.save(commit=False)
+#             user_info.zip_code = request.zip_code
+#             user_info.salary = request.salary
+#             user_info.marital_status = request.marital_status
+#             return redirect('display', pk=user_info.pk)
+#     else:
+#         form = New()
+#     return render(request, 'brackets/new.html', {'form': form})

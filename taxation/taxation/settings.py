@@ -38,9 +38,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'debug_toolbar',
 ]
 
 MIDDLEWARE = [
+    'debug_toolbar.middleware.DebugToolbarMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -48,6 +50,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+
 ]
 
 ROOT_URLCONF = 'taxation.urls'
@@ -102,6 +105,9 @@ AUTH_PASSWORD_VALIDATORS = [
 
 FIXTURE_DIRS = [
     '/Users/Brooke/taxation/brackets/fixtures/federals.json',
+    '/Users/Brooke/taxation/brackets/fixtures/statesß.json',
+    # '/Users/Brooke/taxation/brackets/fixtures/users.json',
+
 ]
 
 

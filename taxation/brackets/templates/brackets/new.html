@@ -1,11 +1,5 @@
-{% extends 'brackets/index.html' %}
-
-{% block content %}
-    <h1>new user</h1>
-    <form method="POST" class="user-info">{% csrf_token %}
-        {{ form.as_p }}
-        <button type="submit" class="save btn btn-default">
-          see your estimated taxes
-        </button>
-    </form>
-{% endblock %}
+<form action="" method="post">
+  {% csrf_token %}
+  {{ form }}
+  <input type="submit" value="see your estimated taxes">
+</form>
