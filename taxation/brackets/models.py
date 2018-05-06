@@ -3,7 +3,6 @@ from django.db import models
 
 # abstract class inherited by state & federal brackets
 class Brackets(models.Model):
-
     greater_than = models.DecimalField(max_digits=15, decimal_places=2, default=0)
     last_bkt = models.DecimalField(max_digits=15, decimal_places=2, default=0)
     init_tax = models.DecimalField(max_digits=15, decimal_places=2, default=0)
