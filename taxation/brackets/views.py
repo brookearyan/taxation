@@ -3,7 +3,6 @@ from django.shortcuts import get_object_or_404, render, redirect
 from django.urls import reverse
 from .models import UserInfo
 from .forms import New
-import pdb
 
 def index(request):
     return render(request,'brackets/index.html')
