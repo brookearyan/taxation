@@ -5,16 +5,6 @@ from .models import UserInfo
 from .forms import New
 
 def index(request):
-    return render(request,'brackets/index.html')
-
-def display(request, user_info_id):
-    try:
-        user_info = get_object_or_404(UserInfo, pk=user_info_id)
-    except UserInfo.DoesNotExist:
-        raise Http404("this user does not exist")
-    return render(request, 'brackets/display.html', {'user_info': user_info})
-
-def new(request):
     if request.method == 'POST':
         form = New(request.POST)
         if form.is_valid():
@@ -27,4 +17,11 @@ def new(request):
         return HttpResponseRedirect(reverse('brackets:display', args=(user_info.id,)))
     else:
         form = New()
-        return render(request, 'brackets/new.html', {'form':form})
+        return render(request, 'brackets/index.html', {'form':form})
+
+def display(request, user_info_id):
+    try:
+        user_info = get_object_or_404(UserInfo, pk=user_info_id)
+    except UserInfo.DoesNotExist:
+        raise Http404("this user does not exist")
+    return render(request, 'brackets/display.html', {'user_info': user_info})
