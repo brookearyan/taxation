@@ -1,5 +1,6 @@
 <form action='' method="post">
   {% csrf_token %}
   {{ form }}
+  {{ field.auto_id }}
   <input type="submit" value="see your estimated taxes">
 </form>

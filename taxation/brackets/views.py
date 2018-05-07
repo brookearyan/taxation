@@ -4,6 +4,7 @@ from django.shortcuts import get_object_or_404, render, redirect
 from django.urls import reverse
 from .models import UserInfo
 from .forms import New
+import pdb
 
 def index(request):
     return render(request, 'brackets/index.html')
@@ -16,13 +17,19 @@ def new(request):
     if request.method == 'POST':
         form = New(request.POST)
         if form.is_valid():
-            user_info = form.cleaned_data
             zip_code = form.cleaned_data['zip_code']
             salary = form.cleaned_data['salary']
             marital_status = form.cleaned_data['marital_status']
+            user_info = UserInfo(zip_code=zip_code, salary=salary, marital_status=marital_status)
+            user_info.save()
+        return render(request, 'brackets/display.html', {'user_info_id': user_info.id})
     else:
         form = New()
         return render(request, 'brackets/new.html', {'form':form})
 
-    return HttpResponseRedirect(reverse('brackets:display', {'user_info_id': user_info.pk}))
 # current url path /brackets/new/form... needds to post to /user-info or /##
+        # zip_code = form.zip_code
+        # salary = form.salary
+        # marital_status = form.marital_status
+        # user_info = UserInfo(zip_code=zip_code, salary=salary, marital_status=marital_status)
+        # user_info.save(
