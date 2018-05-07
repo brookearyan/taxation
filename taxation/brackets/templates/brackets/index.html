@@ -1,0 +1,22 @@
+{% load static %}
+<html>
+  <head>
+    <meta name="viewport" charset="utf-8">
+    <title>
+      user information
+    </title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{% static 'brackets/style.css' %}" />
+    <link rel="stylesheet" type="text/js" href="{% static 'brackets/style.js' %}" />
+  </head>
+  <body>
+    <div class="container">
+      <form action='' method="post">
+        {% csrf_token %}
+        {{ form }}
+        {{ field.auto_id }}
+        <input type="submit" value="see your estimated taxes">
+      </form>
+    </div>
+  </body>
+</html>

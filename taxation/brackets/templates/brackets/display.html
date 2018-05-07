@@ -5,18 +5,26 @@
     <title>
       user information
     </title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="{% static 'brackets/style.css' %}" />
     <link rel="stylesheet" type="text/js" href="{% static 'brackets/style.js' %}" />
-
   </head>
   <body>
-    <h1>USER INFO</h1>
-    {% block content %}
-        <div>
-            <h1>{{ user_info.salary }}</h1>
-            <h1>{{ user_info.zip_code }}</h1>
-            <h1>{{ user_info.marital_status }}</h1>
+      <div class="container card-panel hoverable indigo lighten-5">
+        <div class="row">
+          <h3 class="col s10 offset-s1">your tax breakdown</h3>
         </div>
-    {% endblock %}
+        {% block content %}
+        <div class="row">
+          <p class="col s6 offset-s1">{{ user_info.salary }}</p>
+        </div>
+        <div class="row">
+          <p class="col s6 offset-s1">{{ user_info.zip_code }}</p>
+        </div>
+        <div class="row">
+          <p class="col s6 offset-s1">{{ user_info.marital_status }}</p>
+        </div>
+      {% endblock %}
+      </div>
     </body>
 </html>
