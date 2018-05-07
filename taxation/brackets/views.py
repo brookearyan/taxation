@@ -10,7 +10,10 @@ def index(request):
     return render(request, 'brackets/index.html')
 
 def display(request, user_info_id):
-    user_info = get_object_or_404(UserInfo, pk=user_info_id)
+    try:
+        user_info = get_object_or_404(UserInfo, pk=user_info_id)
+    except UserInfo.DoesNotExist:
+        raise Http404("this user does not exist")
     return render(request, 'brackets/display.html', {'user_info': user_info})
 
 def new(request):
@@ -26,10 +29,3 @@ def new(request):
     else:
         form = New()
         return render(request, 'brackets/new.html', {'form':form})
-
-# current url path /brackets/new/form... needds to post to /user-info or /##
-        # zip_code = form.zip_code
-        # salary = form.salary
-        # marital_status = form.marital_status
-        # user_info = UserInfo(zip_code=zip_code, salary=salary, marital_status=marital_status)
-        # user_info.save(
