@@ -7,7 +7,7 @@ class Brackets(models.Model):
     last_bkt = models.DecimalField(max_digits=15, decimal_places=2, default=0)
     init_tax = models.DecimalField(max_digits=15, decimal_places=2, default=0)
     new_rate = models.DecimalField(max_digits=15, decimal_places=4, default=0)
-
+    
     class Meta:
         abstract = True
 
