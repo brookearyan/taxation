@@ -16,8 +16,12 @@
         {% csrf_token %}
         {{ form }}
         {{ field.auto_id }}
-        <input type="submit" value="see your estimated taxes">
-      </form>
+        <input type="submit" value="see your estimated taxes"/>
     </div>
+    <script>
+      $(document).ready(function(){
+        $('select').formSelect();
+      });
+  </script>
   </body>
 </html>

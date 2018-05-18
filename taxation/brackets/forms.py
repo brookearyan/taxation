@@ -64,6 +64,7 @@ class New(forms.Form):
     marital_status = forms.ChoiceField(choices=SINGLE_OR_MARRIED)
     state = forms.ChoiceField(choices=US_STATES)
 
+# days = forms.ChoiceField(choices=[(x, x) for x in range(1, 32)])
 
     # zip_code = forms.IntegerField()
 
