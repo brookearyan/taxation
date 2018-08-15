@@ -1,4 +1,5 @@
 from django.db import models
+# from logic import *
 
 
 # abstract class inherited by state & federal brackets
