@@ -1,5 +1,11 @@
 [
   {
-
-  }
+    "model": "brackets.user_info",
+    "pk": 2, "fields":
+    {
+      "salary": 100000,
+      "marital_status": "married",
+      "zip_code": "10016"
+    }
+  },
 ]

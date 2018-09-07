@@ -106,8 +106,8 @@ AUTH_PASSWORD_VALIDATORS = [
 
 FIXTURE_DIRS = [
     '/Users/Brooke/taxation/brackets/fixtures/federals.json',
-    '/Users/Brooke/taxation/brackets/fixtures/statesß.json',
-    # '/Users/Brooke/taxation/brackets/fixtures/users.json',
+    '/Users/Brooke/taxation/brackets/fixtures/states.json',
+    '/Users/Brooke/taxation/brackets/fixtures/user_infos.json',
 
 ]
 
